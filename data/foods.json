@@ -1,0 +1,1178 @@
+[
+  {
+    "id": 1,
+    "nameEN": "milk",
+    "nameRO": "lapte",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "id": 2,
+    "nameEN": "mozzarella",
+    "nameRO": "mozzarella",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "id": 3,
+    "nameEN": "water",
+    "nameRO": "apă",
+    "category": "Beverages"
+  },
+  {
+    "id": 4,
+    "nameEN": "chicken wings",
+    "nameRO": "aripioare de pui",
+    "category": "Meat & Poultry"
+  },
+  {
+    "id": 5,
+    "nameEN": "sweet paprika",
+    "nameRO": "boia de ardei dulce",
+    "category": "Seasonings"
+  },
+  {
+    "id": 6,
+    "nameEN": "basil",
+    "nameRO": "busuioc",
+    "category": "Seasonings"
+  },
+  {
+    "id": 7,
+    "nameEN": "minced meat",
+    "nameRO": "carne tocată",
+    "category": "Meat & Poultry"
+  },
+  {
+    "id": 8,
+    "nameEN": "onion",
+    "nameRO": "ceapă",
+    "category": "Vegetables"
+  },
+  {
+    "id": 9,
+    "nameEN": "cauliflower",
+    "nameRO": "conopidă",
+    "category": "Vegetables"
+  },
+  {
+    "id": 10,
+    "nameEN": "yogurt",
+    "nameRO": "iaurt",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "id": 14,
+    "nameEN": "chicken breast",
+    "nameRO": "piept de pui",
+    "category": "Meat & Poultry"
+  },
+  {
+    "id": 15,
+    "nameEN": "black pepper",
+    "nameRO": "piper negru",
+    "category": "Seasonings"
+  },
+  {
+    "id": 16,
+    "nameEN": "lemon juice",
+    "nameRO": "suc de lămâie",
+    "category": "Sauces & Condiments"
+  },
+  {
+    "id": 17,
+    "nameEN": "vegetable oil",
+    "nameRO": "ulei",
+    "category": "Oils & Vinegars"
+  },
+  {
+    "id": 18,
+    "nameEN": "garlic",
+    "nameRO": "usturoi",
+    "category": "Vegetables"
+  },
+  {
+    "id": 19,
+    "nameEN": "cinnamon",
+    "nameRO": "scorțișoară",
+    "category": "Seasonings"
+  },
+  {
+    "id": 20,
+    "nameEN": "powdered sugar",
+    "nameRO": "zahăr pudră",
+    "category": "Sweets"
+  },
+  {
+    "id": 22,
+    "nameEN": "vanilla essence",
+    "nameRO": "esență de vanilie",
+    "category": "Baking"
+  },
+  {
+    "id": 23,
+    "nameEN": "baking powder",
+    "nameRO": "praf de copt",
+    "category": "Baking"
+  },
+  {
+    "id": 24,
+    "nameEN": "pickled cucumbers",
+    "nameRO": "castraveți murați",
+    "category": "Vegetables"
+  },
+  {
+    "id": 25,
+    "nameEN": "honey",
+    "nameRO": "miere de albine",
+    "category": "Sweets"
+  },
+  {
+    "id": 27,
+    "nameEN": "bread crumbs",
+    "nameRO": "pesmet",
+    "category": "Grains"
+  },
+  {
+    "id": 28,
+    "nameEN": "granulated garlic",
+    "nameRO": "usturoi granulat",
+    "category": "Seasonings"
+  },
+  {
+    "id": 31,
+    "nameEN": "melted butter",
+    "nameRO": "unt topit",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "id": 33,
+    "nameEN": "orange",
+    "nameRO": "portocală",
+    "category": "Fruits"
+  },
+  {
+    "id": 35,
+    "nameEN": "cherry tomatoes",
+    "nameRO": "roșii cherry",
+    "category": "Vegetables"
+  },
+  {
+    "id": 39,
+    "nameEN": "cottage cheese",
+    "nameRO": "brânză de vaci",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "id": 40,
+    "nameEN": "walnut",
+    "nameRO": "miez de nuci",
+    "category": "Nuts & Seeds"
+  },
+  {
+    "id": 43,
+    "nameEN": "bacon",
+    "nameRO": "bacon",
+    "category": "Meat & Poultry"
+  },
+  {
+    "id": 45,
+    "nameEN": "salt",
+    "nameRO": "sare",
+    "category": "Seasonings"
+  },
+  {
+    "id": 47,
+    "nameEN": "mint",
+    "nameRO": "mentă",
+    "category": "Seasonings"
+  },
+  {
+    "id": 48,
+    "nameEN": "lime",
+    "nameRO": "lime",
+    "category": "Fruits"
+  },
+  {
+    "id": 79,
+    "nameEN": "toothpicks",
+    "nameRO": "Scobitori",
+    "category": "Others"
+  },
+  {
+    "id": 89,
+    "nameEN": "cheese",
+    "nameRO": "cașcaval",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "id": 90,
+    "nameEN": "whipping cream",
+    "nameRO": "frișcă",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "id": 91,
+    "nameEN": "soft butter",
+    "nameRO": "unt moale",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "id": 92,
+    "nameEN": "cheese cream",
+    "nameRO": "cremă de brânză",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "id": 93,
+    "nameEN": "cooking cream",
+    "nameRO": "smântână dulce de gătit",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "id": 94,
+    "nameEN": "red bell pepper",
+    "nameRO": "ardei gras roșu",
+    "category": "Vegetables"
+  },
+  {
+    "id": 95,
+    "nameEN": "cucumbers",
+    "nameRO": "castraveți",
+    "category": "Vegetables"
+  },
+  {
+    "id": 96,
+    "nameEN": "olive oil",
+    "nameRO": "ulei de măsline",
+    "category": "Oils & Vinegars"
+  },
+  {
+    "id": 109,
+    "nameEN": "parmesan",
+    "nameRO": "parmezan",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "id": 110,
+    "nameEN": "sour cream",
+    "nameRO": "smântână",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "id": 111,
+    "nameEN": "eggs",
+    "nameRO": "ouă",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "id": 112,
+    "nameEN": "butter",
+    "nameRO": "unt",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "id": 113,
+    "nameEN": "potatoes",
+    "nameRO": "cartofi",
+    "category": "Vegetables"
+  },
+  {
+    "id": 114,
+    "nameEN": "tomatoes",
+    "nameRO": "roșii",
+    "category": "Vegetables"
+  },
+  {
+    "id": 115,
+    "nameEN": "carrot",
+    "nameRO": "morcov",
+    "category": "Vegetables"
+  },
+  {
+    "id": 116,
+    "nameEN": "mushrooms",
+    "nameRO": "ciuperci",
+    "category": "Vegetables"
+  },
+  {
+    "id": 118,
+    "nameEN": "green bell pepper",
+    "nameRO": "ardei gras verde",
+    "category": "Vegetables"
+  },
+  {
+    "id": 119,
+    "nameEN": "red onion",
+    "nameRO": "ceapă roșie",
+    "category": "Vegetables"
+  },
+  {
+    "id": 120,
+    "nameEN": "lemon",
+    "nameRO": "lămâie",
+    "category": "Fruits"
+  },
+  {
+    "id": 121,
+    "nameEN": "dill",
+    "nameRO": "mărar",
+    "category": "Seasonings"
+  },
+  {
+    "id": 122,
+    "nameEN": "scallions",
+    "nameRO": "ceapă verde",
+    "category": "Vegetables"
+  },
+  {
+    "id": 123,
+    "nameEN": "parsley",
+    "nameRO": "pătrunjel",
+    "category": "Seasonings"
+  },
+  {
+    "id": 124,
+    "nameEN": "flour",
+    "nameRO": "făină",
+    "category": "Grains"
+  },
+  {
+    "id": 125,
+    "nameEN": "mustard",
+    "nameRO": "muștar",
+    "category": "Sauces & Condiments"
+  },
+  {
+    "id": 126,
+    "nameEN": "puff pastry",
+    "nameRO": "aluat foietaj",
+    "category": "Bakery"
+  },
+  {
+    "id": 127,
+    "nameEN": "ketchup",
+    "nameRO": "ketchup",
+    "category": "Sauces & Condiments"
+  },
+  {
+    "id": 128,
+    "nameEN": "garlic powder",
+    "nameRO": "praf de usturoi",
+    "category": "Seasonings"
+  },
+  {
+    "id": 129,
+    "nameEN": "herbs of Provence",
+    "nameRO": "ierburi de provence",
+    "category": "Seasonings"
+  },
+  {
+    "id": 130,
+    "nameEN": "starch",
+    "nameRO": "amidon",
+    "category": "Baking"
+  },
+  {
+    "id": 131,
+    "nameEN": "cocoa",
+    "nameRO": "cacao",
+    "category": "Baking"
+  },
+  {
+    "id": 132,
+    "nameEN": "instant coffee",
+    "nameRO": "cafea solubilă",
+    "category": "Beverages"
+  },
+  {
+    "id": 133,
+    "nameEN": "mayonnaise",
+    "nameRO": "maioneză",
+    "category": "Sauces & Condiments"
+  },
+  {
+    "id": 134,
+    "nameEN": "soy sauce",
+    "nameRO": "sos de soia",
+    "category": "Sauces & Condiments"
+  },
+  {
+    "id": 135,
+    "nameEN": "oregano",
+    "nameRO": "oregano",
+    "category": "Seasonings"
+  },
+  {
+    "id": 136,
+    "nameEN": "spinach",
+    "nameRO": "spanac",
+    "category": "Vegetables"
+  },
+  {
+    "id": 137,
+    "nameEN": "vinegar",
+    "nameRO": "oțet",
+    "category": "Oils & Vinegars"
+  },
+  {
+    "id": 138,
+    "nameEN": "ice",
+    "nameRO": "gheață",
+    "category": "Beverages"
+  },
+  {
+    "id": 139,
+    "nameEN": "strawberries",
+    "nameRO": "căpșune",
+    "category": "Fruits"
+  },
+  {
+    "id": 140,
+    "nameEN": "sugar",
+    "nameRO": "zahăr",
+    "category": "Sweets"
+  },
+  {
+    "id": 141,
+    "nameEN": "ham",
+    "nameRO": "șuncă",
+    "category": "Others"
+  },
+  {
+    "id": 142,
+    "nameEN": "zucchini",
+    "nameRO": "dovlecel",
+    "category": "Others"
+  },
+  {
+    "id": 145,
+    "nameEN": "an entire chicken",
+    "nameRO": "pui întreg",
+    "category": "Meat & Poultry"
+  },
+  {
+    "id": 146,
+    "nameEN": "broccoli",
+    "nameRO": "broccoli",
+    "category": "Vegetables"
+  },
+  {
+    "id": 147,
+    "nameEN": "feta cheese",
+    "nameRO": "brânză feta",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "id": 152,
+    "nameEN": "biscuits",
+    "nameRO": "biscuiți",
+    "category": "Bakery"
+  },
+  {
+    "id": 154,
+    "nameEN": "Nutella",
+    "nameRO": "Nutella",
+    "category": "Sweets"
+  },
+  {
+    "id": 156,
+    "nameEN": "hydrated gelatine",
+    "nameRO": "gelatină hidratată",
+    "category": "Baking"
+  },
+  {
+    "id": 157,
+    "nameEN": "ground coffee",
+    "nameRO": "cafea măcinată",
+    "category": "Beverages"
+  },
+  {
+    "id": 159,
+    "nameEN": "Greek yogurt",
+    "nameRO": "iaurt grecesc",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "id": 160,
+    "nameEN": "corn starch",
+    "nameRO": "amidon de porumb",
+    "category": "Baking"
+  },
+  {
+    "id": 163,
+    "nameEN": "dark chocolate",
+    "nameRO": "ciocolată neagră",
+    "category": "Sweets"
+  },
+  {
+    "id": 164,
+    "nameEN": "white chocolate",
+    "nameRO": "ciocolată albă",
+    "category": "Sweets"
+  },
+  {
+    "id": 165,
+    "nameEN": "bananas",
+    "nameRO": "banane",
+    "category": "Fruits"
+  },
+  {
+    "id": 166,
+    "nameEN": "thyme",
+    "nameRO": "cimbru",
+    "category": "Seasonings"
+  },
+  {
+    "id": 168,
+    "nameEN": "turmeric",
+    "nameRO": "curcuma",
+    "category": "Others"
+  },
+  {
+    "id": 169,
+    "nameEN": "yolk",
+    "nameRO": "gălbenuș",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "id": 170,
+    "nameEN": "condensed milk",
+    "nameRO": "lapte condensat",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "id": 171,
+    "nameEN": "cabbage",
+    "nameRO": "varză",
+    "category": "Vegetables"
+  },
+  {
+    "id": 175,
+    "nameEN": "brown sugar",
+    "nameRO": "zahăr brun",
+    "category": "Sweets"
+  },
+  {
+    "id": 176,
+    "nameEN": "chili paprika",
+    "nameRO": "boia de ardei iute",
+    "category": "Seasonings"
+  },
+  {
+    "id": 177,
+    "nameEN": "pork chop",
+    "nameRO": "cotlet de porc",
+    "category": "Meat & Poultry"
+  },
+  {
+    "id": 178,
+    "nameEN": "pork ham hock",
+    "nameRO": "ciolan de porc",
+    "category": "Meat & Poultry"
+  },
+  {
+    "id": 179,
+    "nameEN": "pork ribs",
+    "nameRO": "costițe de porc",
+    "category": "Meat & Poultry"
+  },
+  {
+    "id": 183,
+    "nameEN": "milk chocolate",
+    "nameRO": "ciocolată cu lapte",
+    "category": "Sweets"
+  },
+  {
+    "id": 186,
+    "nameEN": "toast bread",
+    "nameRO": "pâine pentru toast",
+    "category": "Others"
+  },
+  {
+    "id": 189,
+    "nameEN": "tomato paste",
+    "nameRO": "pastă de tomate",
+    "category": "Cooking Bases"
+  },
+  {
+    "id": 190,
+    "nameEN": "rice",
+    "nameRO": "orez",
+    "category": "Grains"
+  },
+  {
+    "id": 193,
+    "nameEN": "dried yeast",
+    "nameRO": "drojdie uscată",
+    "category": "Baking"
+  },
+  {
+    "id": 194,
+    "nameEN": "apples",
+    "nameRO": "mere",
+    "category": "Fruits"
+  },
+  {
+    "id": 196,
+    "nameEN": "frozen green peas",
+    "nameRO": "mazăre verde congelată",
+    "category": "Vegetables"
+  },
+  {
+    "id": 200,
+    "nameEN": "raspberry",
+    "nameRO": "zmeură",
+    "category": "Fruits"
+  },
+  {
+    "id": 204,
+    "nameEN": "canned corn",
+    "nameRO": "porumb conservat",
+    "category": "Vegetables"
+  },
+  {
+    "id": 205,
+    "nameEN": "green olives",
+    "nameRO": "măsline verzi",
+    "category": "Vegetables"
+  },
+  {
+    "id": 207,
+    "nameEN": "pork belly",
+    "nameRO": "burtă de porc",
+    "category": "Meat & Poultry"
+  },
+  {
+    "id": 208,
+    "nameEN": "rosemary",
+    "nameRO": "rozmarin",
+    "category": "Seasonings"
+  },
+  {
+    "id": 212,
+    "nameEN": "cheddar",
+    "nameRO": "cașcaval cheddar",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "id": 218,
+    "nameEN": "tangerines",
+    "nameRO": "mandarine",
+    "category": "Fruits"
+  },
+  {
+    "id": 219,
+    "nameEN": "beer",
+    "nameRO": "bere",
+    "category": "Beverages"
+  },
+  {
+    "id": 230,
+    "nameEN": "pasta",
+    "nameRO": "paste",
+    "category": "Grains"
+  },
+  {
+    "id": 231,
+    "nameEN": "peanuts",
+    "nameRO": "arahide",
+    "category": "Nuts & Seeds"
+  },
+  {
+    "id": 232,
+    "nameEN": "tomato sauce",
+    "nameRO": "sos de roșii",
+    "category": "Others"
+  },
+  {
+    "id": 233,
+    "nameEN": "apricot jam",
+    "nameRO": "gem de caise",
+    "category": "Sweets"
+  },
+  {
+    "id": 242,
+    "nameEN": "vanilla biscuits",
+    "nameRO": "biscuiți cu vanilie",
+    "category": "Bakery"
+  },
+  {
+    "id": 244,
+    "nameEN": "Coca-Cola",
+    "nameRO": "Coca-Cola",
+    "category": "Beverages"
+  },
+  {
+    "id": 245,
+    "nameEN": "pork meat",
+    "nameRO": "carne de porc",
+    "category": "Meat & Poultry"
+  },
+  {
+    "id": 247,
+    "nameEN": "Fanta",
+    "nameRO": "Fanta",
+    "category": "Beverages"
+  },
+  {
+    "id": 248,
+    "nameEN": "eggplants",
+    "nameRO": "vinete",
+    "category": "Vegetables"
+  },
+  {
+    "id": 256,
+    "nameEN": "sesame seeds",
+    "nameRO": "semințe de susan",
+    "category": "Nuts & Seeds"
+  },
+  {
+    "id": 257,
+    "nameEN": "yellow bell pepper",
+    "nameRO": "ardei gras galben",
+    "category": "Vegetables"
+  },
+  {
+    "id": 259,
+    "nameEN": "bread",
+    "nameRO": "pâine",
+    "category": "Bakery"
+  },
+  {
+    "id": 263,
+    "nameEN": "black olives",
+    "nameRO": "măsline negre",
+    "category": "Vegetables"
+  },
+  {
+    "id": 268,
+    "nameEN": "whole grain mustard",
+    "nameRO": "muștar boabe",
+    "category": "Sauces & Condiments"
+  },
+  {
+    "id": 269,
+    "nameEN": "turmeric",
+    "nameRO": "turmeric",
+    "category": "Seasonings"
+  },
+  {
+    "id": 275,
+    "nameEN": "apple vinegar",
+    "nameRO": "oțet de mere",
+    "category": "Oils & Vinegars"
+  },
+  {
+    "id": 276,
+    "nameEN": "bay leaves",
+    "nameRO": "frunze de dafin",
+    "category": "Seasonings"
+  },
+  {
+    "id": 277,
+    "nameEN": "chicken broth",
+    "nameRO": "supă concentrată de pui",
+    "category": "Cooking Bases"
+  },
+  {
+    "id": 279,
+    "nameEN": "frozen berries",
+    "nameRO": "fructe de pădure congelate",
+    "category": "Fruits"
+  },
+  {
+    "id": 280,
+    "nameEN": "sodium bicarbonate",
+    "nameRO": "bicarbonat de sodiu",
+    "category": "Baking"
+  },
+  {
+    "id": 281,
+    "nameEN": "chicken legs",
+    "nameRO": "pulpe de pui",
+    "category": "Meat & Poultry"
+  },
+  {
+    "id": 284,
+    "nameEN": "chili flakes",
+    "nameRO": "fulgi de ardei iute",
+    "category": "Seasonings"
+  },
+  {
+    "id": 290,
+    "nameEN": "black peppercorns",
+    "nameRO": "piper negru boabe",
+    "category": "Seasonings"
+  },
+  {
+    "id": 292,
+    "nameEN": "gelatine",
+    "nameRO": "gelatină",
+    "category": "Baking"
+  },
+  {
+    "id": 294,
+    "nameEN": "kiwi",
+    "nameRO": "kiwi",
+    "category": "Fruits"
+  },
+  {
+    "id": 299,
+    "nameEN": "white sesame seeds",
+    "nameRO": "semințe de susan alb",
+    "category": "Nuts & Seeds"
+  },
+  {
+    "id": 300,
+    "nameEN": "black sesame seeds",
+    "nameRO": "semințe de susan negru",
+    "category": "Nuts & Seeds"
+  },
+  {
+    "id": 303,
+    "nameEN": "toast bread",
+    "nameRO": "pâine toast",
+    "category": "Bakery"
+  },
+  {
+    "id": 306,
+    "nameEN": "nutmeg",
+    "nameRO": "nucșoară",
+    "category": "Seasonings"
+  },
+  {
+    "id": 311,
+    "nameEN": "vegetable broth",
+    "nameRO": "supă concentrată de legume",
+    "category": "Cooking Bases"
+  },
+  {
+    "id": 316,
+    "nameEN": "chili sauce",
+    "nameRO": "sos chilli",
+    "category": "Sauces & Condiments"
+  },
+  {
+    "id": 321,
+    "nameEN": "green apple",
+    "nameRO": "măr verde",
+    "category": "Fruits"
+  },
+  {
+    "id": 323,
+    "nameEN": "melted dark chocolate",
+    "nameRO": "ciocolată neagră topită",
+    "category": "Sweets"
+  },
+  {
+    "id": 326,
+    "nameEN": "warm milk",
+    "nameRO": "lapte cald",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "id": 329,
+    "nameEN": "Pepsi",
+    "nameRO": "Pepsi",
+    "category": "Beverages"
+  },
+  {
+    "id": 334,
+    "nameEN": "coarse salt",
+    "nameRO": "sare grunjoasă",
+    "category": "Seasonings"
+  },
+  {
+    "id": 337,
+    "nameEN": "beef",
+    "nameRO": "carne de vită",
+    "category": "Meat & Poultry"
+  },
+  {
+    "id": 340,
+    "nameEN": "smoked bacon",
+    "nameRO": "bacon afumat",
+    "category": "Meat & Poultry"
+  },
+  {
+    "id": 342,
+    "nameEN": "onion powder",
+    "nameRO": "praf de ceapă",
+    "category": "Seasonings"
+  },
+  {
+    "id": 343,
+    "nameEN": "orange bell pepper",
+    "nameRO": "ardei gras portocaliu",
+    "category": "Vegetables"
+  },
+  {
+    "id": 345,
+    "nameEN": "dried dill",
+    "nameRO": "mărar uscat",
+    "category": "Seasonings"
+  },
+  {
+    "id": 347,
+    "nameEN": "dried rosemary",
+    "nameRO": "rozmarin uscat",
+    "category": "Seasonings"
+  },
+  {
+    "id": 351,
+    "nameEN": "lettuce leaves",
+    "nameRO": "frunze de salată",
+    "category": "Vegetables"
+  },
+  {
+    "id": 352,
+    "nameEN": "boiled condensed milk",
+    "nameRO": "lapte condensat fiert",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "id": 360,
+    "nameEN": "oat flakes",
+    "nameRO": "fulgi de ovăz",
+    "category": "Grains"
+  },
+  {
+    "id": 363,
+    "nameEN": "black tea",
+    "nameRO": "ceai negru",
+    "category": "Beverages"
+  },
+  {
+    "id": 364,
+    "nameEN": "ice cubes",
+    "nameRO": "cuburi de gheață",
+    "category": "Others"
+  },
+  {
+    "id": 367,
+    "nameEN": "The glaze",
+    "nameRO": "Glazură",
+    "category": "Others"
+  },
+  {
+    "id": 373,
+    "nameEN": "boiled rice",
+    "nameRO": "orez prefiert",
+    "category": "Grains"
+  },
+  {
+    "id": 374,
+    "nameEN": "chocolate",
+    "nameRO": "ciocolată",
+    "category": "Sweets"
+  },
+  {
+    "id": 375,
+    "nameEN": "avocado",
+    "nameRO": "avocado",
+    "category": "Fruits"
+  },
+  {
+    "id": 385,
+    "nameEN": "pork neck",
+    "nameRO": "ceafă de porc",
+    "category": "Meat & Poultry"
+  },
+  {
+    "id": 387,
+    "nameEN": "lime juice",
+    "nameRO": "suc de lime",
+    "category": "Beverages"
+  },
+  {
+    "id": 388,
+    "nameEN": "smoked paprika",
+    "nameRO": "boia de ardei afumată",
+    "category": "Seasonings"
+  },
+  {
+    "id": 394,
+    "nameEN": "balsamic sauce",
+    "nameRO": "sos balsamic",
+    "category": "Sauces & Condiments"
+  },
+  {
+    "id": 408,
+    "nameEN": "red chili pepper",
+    "nameRO": "ardei iute roșu",
+    "category": "Vegetables"
+  },
+  {
+    "id": 420,
+    "nameEN": "lemon peel",
+    "nameRO": "coajă de lămâie",
+    "category": "Seasonings"
+  },
+  {
+    "id": 428,
+    "nameEN": "brown mushrooms",
+    "nameRO": "ciuperci brune",
+    "category": "Vegetables"
+  },
+  {
+    "id": 429,
+    "nameEN": "dried tomatoes",
+    "nameRO": "roșii uscate",
+    "category": "Vegetables"
+  },
+  {
+    "id": 430,
+    "nameEN": "Nesquik",
+    "nameRO": "Nesquik",
+    "category": "Sweets"
+  },
+  {
+    "id": 439,
+    "nameEN": "hot sauce",
+    "nameRO": "sos iute",
+    "category": "Sauces & Condiments"
+  },
+  {
+    "id": 448,
+    "nameEN": "coffee",
+    "nameRO": "cafea",
+    "category": "Beverages"
+  },
+  {
+    "id": 449,
+    "nameEN": "milk powder",
+    "nameRO": "lapte praf",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "id": 459,
+    "nameEN": "Iceberg lettuce",
+    "nameRO": "salata iceberg",
+    "category": "Vegetables"
+  },
+  {
+    "id": 473,
+    "nameEN": "wine vinegar",
+    "nameRO": "oțet de vin",
+    "category": "Oils & Vinegars"
+  },
+  {
+    "id": 482,
+    "nameEN": "Milka milk chocolate",
+    "nameRO": "Milka cu lapte",
+    "category": "Sweets"
+  },
+  {
+    "id": 487,
+    "nameEN": "Kalamata olives",
+    "nameRO": "măsline kalamata",
+    "category": "Vegetables"
+  },
+  {
+    "id": 496,
+    "nameEN": "salmon",
+    "nameRO": "somon",
+    "category": "Fish & Seafood"
+  },
+  {
+    "id": 497,
+    "nameEN": "lemon zest",
+    "nameRO": "zest de lămâie",
+    "category": "Seasonings"
+  },
+  {
+    "id": 498,
+    "nameEN": "Dijon mustard",
+    "nameRO": "muștar dijon",
+    "category": "Sauces & Condiments"
+  },
+  {
+    "id": 508,
+    "nameEN": "beef liver",
+    "nameRO": "ficat de vită",
+    "category": "Meat & Poultry"
+  },
+  {
+    "id": 517,
+    "nameEN": "onion skins",
+    "nameRO": "coji de ceapă",
+    "category": "Vegetables"
+  },
+  {
+    "id": 530,
+    "nameEN": "Kinder Milk chocolates",
+    "nameRO": "ciocolate Kinder Milk",
+    "category": "Sweets"
+  },
+  {
+    "id": 542,
+    "nameEN": "chicken liver",
+    "nameRO": "ficat de pui",
+    "category": "Meat & Poultry"
+  },
+  {
+    "id": 549,
+    "nameEN": "roasted peanuts",
+    "nameRO": "arahide tostate",
+    "category": "Nuts & Seeds"
+  },
+  {
+    "id": 550,
+    "nameEN": "agar agar",
+    "nameRO": "agar agar",
+    "category": "Baking"
+  },
+  {
+    "id": 568,
+    "nameEN": "nitrite salt",
+    "nameRO": "sare cu nitrați",
+    "category": "Seasonings"
+  },
+  {
+    "id": 576,
+    "nameEN": "red apple",
+    "nameRO": "măr roșu",
+    "category": "Fruits"
+  },
+  {
+    "id": 604,
+    "nameEN": "celery stalk",
+    "nameRO": "apio",
+    "category": "Vegetables"
+  },
+  {
+    "id": 622,
+    "nameEN": "rum essence",
+    "nameRO": "esență de rom",
+    "category": "Baking"
+  },
+  {
+    "id": 627,
+    "nameEN": "pease",
+    "nameRO": "mazăre",
+    "category": "Vegetables"
+  },
+  {
+    "id": 671,
+    "nameEN": "green apples",
+    "nameRO": "mere verzi",
+    "category": "Fruits"
+  },
+  {
+    "id": 738,
+    "nameEN": "melted cheddar pressed cheese",
+    "nameRO": "brânză topită cu cheddar ",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "id": 739,
+    "nameEN": "whipped cream",
+    "nameRO": "frișcă bătută",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "id": 747,
+    "nameEN": "caramel syrup",
+    "nameRO": "sirop de caramelă",
+    "category": "Sweets"
+  }
+]

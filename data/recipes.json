@@ -1,0 +1,9142 @@
+[
+  {
+    "id": 265,
+    "title": {
+      "ro": "Pui la cuptor cu cartofi și legume",
+      "en": "Oven-roasted chicken with potatoes and vegetables"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 145,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 112,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 113,
+        "amount": 1,
+        "unit": "KG"
+      },
+      {
+        "foodId": 96,
+        "amount": 30,
+        "unit": "ML"
+      },
+      {
+        "foodId": 115,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 116,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 128,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 208,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 133,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 127,
+        "amount": 70,
+        "unit": "G"
+      },
+      {
+        "foodId": 316,
+        "amount": 30,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 2594,
+    "title": {
+      "en": "Frozen chocolate shells with peanut caramel and sponge cake",
+      "ro": "Cochilii de ciocolată înghețate cu caramel de arahide și pandișpan"
+    },
+    "servings": 8,
+    "ingredients": [
+      {
+        "foodId": 3,
+        "amount": 2.5,
+        "unit": "L"
+      },
+      {
+        "foodId": 323,
+        "amount": 400,
+        "unit": "G"
+      },
+      {
+        "foodId": 549,
+        "amount": 250,
+        "unit": "G"
+      },
+      {
+        "foodId": 132,
+        "amount": 15,
+        "unit": "G"
+      },
+      {
+        "foodId": 138,
+        "amount": 25,
+        "unit": "G"
+      },
+      {
+        "foodId": 140,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 112,
+        "amount": 90,
+        "unit": "G"
+      },
+      {
+        "foodId": 90,
+        "amount": 300,
+        "unit": "ML"
+      },
+      {
+        "foodId": 92,
+        "amount": 400,
+        "unit": "G"
+      },
+      {
+        "foodId": 20,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 156,
+        "amount": 35,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 17,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 124,
+        "amount": 80,
+        "unit": "G"
+      },
+      {
+        "foodId": 23,
+        "amount": 8,
+        "unit": "G"
+      },
+      {
+        "foodId": 430,
+        "amount": 60,
+        "unit": "G"
+      },
+      {
+        "foodId": 367,
+        "amount": 100,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 621,
+    "title": {
+      "en": "Creamy salmon risotto with spinach and tomatoes",
+      "ro": "Risotto cremos cu somon, spanac și roșii"
+    },
+    "servings": 12,
+    "ingredients": [
+      {
+        "foodId": 496,
+        "amount": 2,
+        "unit": "KG"
+      },
+      {
+        "foodId": 91,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 8,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 116,
+        "amount": 120,
+        "unit": "G"
+      },
+      {
+        "foodId": 35,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 429,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 136,
+        "amount": 80,
+        "unit": "G"
+      },
+      {
+        "foodId": 93,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 109,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 112,
+        "amount": 60,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 10,
+        "unit": "ML"
+      },
+      {
+        "foodId": 190,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 497,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 311,
+        "amount": 200,
+        "unit": "ML"
+      },
+      {
+        "foodId": 168,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 120,
+        "amount": 1,
+        "unit": "PC"
+      }
+    ]
+  },
+  {
+    "id": 639,
+    "title": {
+      "en": "Baked marinated chicken breasts with creamy mashed potatoes",
+      "ro": "Piept de pui marinat la cuptor cu piure cremos de cartofi"
+    },
+    "servings": 5,
+    "ingredients": [
+      {
+        "foodId": 119,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 114,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 96,
+        "amount": 70,
+        "unit": "ML"
+      },
+      {
+        "foodId": 134,
+        "amount": 40,
+        "unit": "ML"
+      },
+      {
+        "foodId": 175,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 347,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 135,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 14,
+        "amount": 800,
+        "unit": "G"
+      },
+      {
+        "foodId": 2,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 113,
+        "amount": 400,
+        "unit": "G"
+      },
+      {
+        "foodId": 3,
+        "amount": 700,
+        "unit": "ML"
+      },
+      {
+        "foodId": 208,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 123,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 122,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 276,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 112,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 1,
+        "amount": 100,
+        "unit": "ML"
+      }
+    ]
+  },
+  {
+    "id": 636,
+    "title": {
+      "en": "Baked battered chicken breast with salad",
+      "ro": "Piept de pui pane la cuptor cu salată de legume"
+    },
+    "servings": 3,
+    "ingredients": [
+      {
+        "foodId": 111,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 1,
+        "amount": 150,
+        "unit": "ML"
+      },
+      {
+        "foodId": 45,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 124,
+        "amount": 80,
+        "unit": "G"
+      },
+      {
+        "foodId": 135,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 23,
+        "amount": 7,
+        "unit": "G"
+      },
+      {
+        "foodId": 2,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 14,
+        "amount": 400,
+        "unit": "G"
+      },
+      {
+        "foodId": 114,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 94,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 95,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 115,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 119,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 136,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 15,
+        "unit": "ML"
+      },
+      {
+        "foodId": 134,
+        "amount": 30,
+        "unit": "ML"
+      },
+      {
+        "foodId": 137,
+        "amount": 6,
+        "unit": "ML"
+      },
+      {
+        "foodId": 18,
+        "amount": 1,
+        "unit": "CLOVES"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 299,
+        "amount": 8,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 3446,
+    "title": {
+      "ro": "Desert stratificat cu biscuiți și cremă de ciocolată",
+      "en": "Layered chocolate custard biscuit dessert"
+    },
+    "servings": 8,
+    "ingredients": [
+      {
+        "foodId": 242,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 140,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 482,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 112,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 1,
+        "amount": 200,
+        "unit": "ML"
+      },
+      {
+        "foodId": 124,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 160,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 170,
+        "amount": 60,
+        "unit": "G"
+      },
+      {
+        "foodId": 22,
+        "amount": 10,
+        "unit": "ML"
+      },
+      {
+        "foodId": 364,
+        "amount": 6,
+        "unit": "PC"
+      },
+      {
+        "foodId": 120,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 47,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 16,
+        "amount": 10,
+        "unit": "ML"
+      },
+      {
+        "foodId": 130,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 131,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 183,
+        "amount": 1,
+        "unit": "PC"
+      }
+    ]
+  },
+  {
+    "id": 1603,
+    "title": {
+      "en": "Baked chicken pouches with mushroom filling and feta salad",
+      "ro": "Punguțe de piept de pui cu umplutură de ciuperci și salată cu feta"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 14,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 8,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 116,
+        "amount": 400,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 133,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 89,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 35,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 119,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 95,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 121,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 96,
+        "amount": 30,
+        "unit": "ML"
+      },
+      {
+        "foodId": 147,
+        "amount": 70,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 1559,
+    "title": {
+      "ro": "Pui la cuptor cu cartofi copți și salată cu nuci",
+      "en": "Oven-baked chicken with roasted potatoes and walnut salad"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 145,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 3,
+        "amount": 3,
+        "unit": "L"
+      },
+      {
+        "foodId": 604,
+        "amount": 250,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 45,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 290,
+        "amount": 7,
+        "unit": "G"
+      },
+      {
+        "foodId": 129,
+        "amount": 7,
+        "unit": "G"
+      },
+      {
+        "foodId": 123,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 112,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 113,
+        "amount": 1,
+        "unit": "KG"
+      },
+      {
+        "foodId": 96,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 8,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 284,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 114,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 95,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 119,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 40,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 16,
+        "amount": 20,
+        "unit": "ML"
+      }
+    ]
+  },
+  {
+    "id": 593,
+    "title": {
+      "en": "Beef stew with cauliflower and potato puree",
+      "ro": "Tocăniță de vită cu piure de conopidă și cartofi"
+    },
+    "servings": 3,
+    "ingredients": [
+      {
+        "foodId": 112,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 30,
+        "unit": "ML"
+      },
+      {
+        "foodId": 8,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 94,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 18,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 114,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 43,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 125,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 134,
+        "amount": 30,
+        "unit": "ML"
+      },
+      {
+        "foodId": 3,
+        "amount": 300,
+        "unit": "ML"
+      },
+      {
+        "foodId": 113,
+        "amount": 500,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 93,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 9,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 109,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 96,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 122,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 130,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 337,
+        "amount": 500,
+        "unit": "G"
+      },
+      {
+        "foodId": 219,
+        "amount": 200,
+        "unit": "ML"
+      }
+    ]
+  },
+  {
+    "id": 1469,
+    "title": {
+      "en": "Baked chicken and mozzarella casserole with marinated tomatoes and onions",
+      "ro": "Pui la cuptor cu mozzarella și roșii cu ceapă marinate"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 14,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 3,
+        "amount": 600,
+        "unit": "ML"
+      },
+      {
+        "foodId": 111,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 1,
+        "amount": 200,
+        "unit": "ML"
+      },
+      {
+        "foodId": 45,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 135,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 23,
+        "amount": 8,
+        "unit": "G"
+      },
+      {
+        "foodId": 124,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 2,
+        "amount": 120,
+        "unit": "G"
+      },
+      {
+        "foodId": 114,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 94,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 8,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 17,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 125,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 25,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 16,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 18,
+        "amount": 1,
+        "unit": "CLOVES"
+      },
+      {
+        "foodId": 5,
+        "amount": 4,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 1743,
+    "title": {
+      "en": "Crispy chicken legs with creamy bacon sauce",
+      "ro": "Pulpe de pui crocante cu sos cremos de bacon"
+    },
+    "servings": 6,
+    "ingredients": [
+      {
+        "foodId": 281,
+        "amount": 6,
+        "unit": "PC"
+      },
+      {
+        "foodId": 219,
+        "amount": 0.5,
+        "unit": "L"
+      },
+      {
+        "foodId": 124,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 130,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 135,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 3,
+        "amount": 100,
+        "unit": "ML"
+      },
+      {
+        "foodId": 159,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 112,
+        "amount": 80,
+        "unit": "G"
+      },
+      {
+        "foodId": 43,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 2,
+        "unit": "CLOVES"
+      },
+      {
+        "foodId": 208,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 125,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 93,
+        "amount": 250,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 3400,
+    "title": {
+      "en": "Beef liver tart with cabbage and mustard cheese sauce",
+      "ro": "Tartă de ficat de vită cu varză și sos de muștar cu brânză"
+    },
+    "servings": 6,
+    "ingredients": [
+      {
+        "foodId": 508,
+        "amount": 1,
+        "unit": "KG"
+      },
+      {
+        "foodId": 1,
+        "amount": 500,
+        "unit": "ML"
+      },
+      {
+        "foodId": 91,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 360,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 123,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 8,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 115,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 18,
+        "amount": 4,
+        "unit": "CLOVES"
+      },
+      {
+        "foodId": 15,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 122,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 171,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 7,
+        "unit": "G"
+      },
+      {
+        "foodId": 2,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 112,
+        "amount": 15,
+        "unit": "G"
+      },
+      {
+        "foodId": 124,
+        "amount": 15,
+        "unit": "G"
+      },
+      {
+        "foodId": 125,
+        "amount": 15,
+        "unit": "G"
+      },
+      {
+        "foodId": 128,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 342,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 212,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 30,
+        "unit": "ML"
+      }
+    ]
+  },
+  {
+    "id": 1384,
+    "title": {
+      "en": "Broccoli pancake with cheese sauce and bacon",
+      "ro": "Clătită de broccoli cu sos de brânză și bacon"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 146,
+        "amount": 600,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 284,
+        "amount": 1,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 89,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 15,
+        "unit": "ML"
+      },
+      {
+        "foodId": 232,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 2,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 114,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 43,
+        "amount": 70,
+        "unit": "G"
+      },
+      {
+        "foodId": 135,
+        "amount": 1,
+        "unit": "G"
+      },
+      {
+        "foodId": 112,
+        "amount": 70,
+        "unit": "G"
+      },
+      {
+        "foodId": 124,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 1,
+        "amount": 300,
+        "unit": "ML"
+      },
+      {
+        "foodId": 128,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 212,
+        "amount": 100,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 1973,
+    "title": {
+      "en": "Baked stuffed cabbage with pork and fresh salad",
+      "ro": "Varză umplută la cuptor cu carne de porc și salată proaspătă"
+    },
+    "servings": 6,
+    "ingredients": [
+      {
+        "foodId": 171,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 245,
+        "amount": 1,
+        "unit": "KG"
+      },
+      {
+        "foodId": 8,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 17,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 45,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 219,
+        "amount": 300,
+        "unit": "ML"
+      },
+      {
+        "foodId": 159,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 133,
+        "amount": 75,
+        "unit": "G"
+      },
+      {
+        "foodId": 268,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 89,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 115,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 122,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 16,
+        "amount": 15,
+        "unit": "ML"
+      },
+      {
+        "foodId": 127,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 134,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 96,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 284,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 299,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 300,
+        "amount": 2,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 1060,
+    "title": {
+      "ro": "Pulpe de pui la cuptor cu orez cremos",
+      "en": "Baked chicken drumsticks with creamy rice"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 281,
+        "amount": 9,
+        "unit": "PC"
+      },
+      {
+        "foodId": 45,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 134,
+        "amount": 50,
+        "unit": "ML"
+      },
+      {
+        "foodId": 25,
+        "amount": 40,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 132,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 120,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 79,
+        "amount": 10,
+        "unit": "PC"
+      },
+      {
+        "foodId": 190,
+        "amount": 400,
+        "unit": "G"
+      },
+      {
+        "foodId": 94,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 93,
+        "amount": 250,
+        "unit": "G"
+      },
+      {
+        "foodId": 277,
+        "amount": 250,
+        "unit": "ML"
+      },
+      {
+        "foodId": 111,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 127,
+        "amount": 40,
+        "unit": "G"
+      },
+      {
+        "foodId": 137,
+        "amount": 10,
+        "unit": "ML"
+      },
+      {
+        "foodId": 316,
+        "amount": 10,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 882,
+    "title": {
+      "en": "Pan-fried chicken liver with veggies, eggs and creamy paprika sauce",
+      "ro": "Ficat de pui prăjit cu legume, ouă și sos cremos cu boia dulce"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 3,
+        "amount": 1,
+        "unit": "L"
+      },
+      {
+        "foodId": 542,
+        "amount": 700,
+        "unit": "G"
+      },
+      {
+        "foodId": 124,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 45,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 122,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 8,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 115,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 116,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 94,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 133,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 125,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 16,
+        "amount": 10,
+        "unit": "ML"
+      },
+      {
+        "foodId": 25,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 89,
+        "amount": 100,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 587,
+    "title": {
+      "ro": "Pulpe de pui prăjite cu sos de maioneză și usturoi",
+      "en": "Fried chicken drumsticks with garlic mayonnaise"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 281,
+        "amount": 8,
+        "unit": "PC"
+      },
+      {
+        "foodId": 219,
+        "amount": 500,
+        "unit": "ML"
+      },
+      {
+        "foodId": 124,
+        "amount": 800,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 135,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 130,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 112,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 3,
+        "amount": 70,
+        "unit": "ML"
+      },
+      {
+        "foodId": 133,
+        "amount": 250,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 17,
+        "amount": 30,
+        "unit": "ML"
+      },
+      {
+        "foodId": 16,
+        "amount": 50,
+        "unit": "ML"
+      }
+    ]
+  },
+  {
+    "id": 1109,
+    "title": {
+      "en": "Cheesy puff pastry petals with garlic mustard sauce",
+      "ro": "Petale din foietaj cu brânză și sos de muștar cu usturoi"
+    },
+    "servings": 6,
+    "ingredients": [
+      {
+        "foodId": 126,
+        "amount": 600,
+        "unit": "G"
+      },
+      {
+        "foodId": 92,
+        "amount": 120,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 147,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 123,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 89,
+        "amount": 120,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 17,
+        "amount": 100,
+        "unit": "ML"
+      },
+      {
+        "foodId": 125,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 140,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 449,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 127,
+        "amount": 50,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 954,
+    "title": {
+      "en": "Pan-fried chicken wings with baked potatoes and dip",
+      "ro": "Aripioare de pui prăjite cu cartofi copți și sos"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 112,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 4,
+        "amount": 20,
+        "unit": "PC"
+      },
+      {
+        "foodId": 329,
+        "amount": 500,
+        "unit": "ML"
+      },
+      {
+        "foodId": 45,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 127,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 125,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 134,
+        "amount": 50,
+        "unit": "ML"
+      },
+      {
+        "foodId": 25,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 113,
+        "amount": 500,
+        "unit": "G"
+      },
+      {
+        "foodId": 208,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 96,
+        "amount": 30,
+        "unit": "ML"
+      },
+      {
+        "foodId": 27,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 109,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 133,
+        "amount": 80,
+        "unit": "G"
+      },
+      {
+        "foodId": 439,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 128,
+        "amount": 5,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 1027,
+    "title": {
+      "en": "Beer-marinated fried chicken legs with chili sauce",
+      "ro": "Pulpe de pui marinate în bere și prăjite cu sos chili"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 281,
+        "amount": 6,
+        "unit": "PC"
+      },
+      {
+        "foodId": 219,
+        "amount": 400,
+        "unit": "ML"
+      },
+      {
+        "foodId": 124,
+        "amount": 250,
+        "unit": "G"
+      },
+      {
+        "foodId": 130,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 135,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 3,
+        "amount": 40,
+        "unit": "ML"
+      },
+      {
+        "foodId": 316,
+        "amount": 25,
+        "unit": "G"
+      },
+      {
+        "foodId": 16,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 127,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 100,
+        "unit": "ML"
+      }
+    ]
+  },
+  {
+    "id": 1501,
+    "title": {
+      "ro": "Pulpe de pui la cuptor cu orez cremos și salată proaspătă",
+      "en": "Baked chicken legs with creamy rice and fresh salad"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 281,
+        "amount": 600,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 40,
+        "unit": "ML"
+      },
+      {
+        "foodId": 45,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 128,
+        "amount": 7,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 190,
+        "amount": 250,
+        "unit": "G"
+      },
+      {
+        "foodId": 196,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 93,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 277,
+        "amount": 300,
+        "unit": "ML"
+      },
+      {
+        "foodId": 115,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 95,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 159,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 8,
+        "unit": "G"
+      },
+      {
+        "foodId": 25,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 284,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 133,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 120,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 123,
+        "amount": 20,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 3205,
+    "title": {
+      "ro": "Costițe de porc în bere cu sos de ciuperci și cartofi cu bacon",
+      "en": "Beer-braised pork ribs with mushroom sauce and bacon potatoes"
+    },
+    "servings": 9,
+    "ingredients": [
+      {
+        "foodId": 3,
+        "amount": 2,
+        "unit": "L"
+      },
+      {
+        "foodId": 179,
+        "amount": 1.5,
+        "unit": "KG"
+      },
+      {
+        "foodId": 112,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 124,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 8,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 116,
+        "amount": 250,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 129,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 166,
+        "amount": 6,
+        "unit": "G"
+      },
+      {
+        "foodId": 219,
+        "amount": 300,
+        "unit": "ML"
+      },
+      {
+        "foodId": 232,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 122,
+        "amount": 25,
+        "unit": "G"
+      },
+      {
+        "foodId": 113,
+        "amount": 700,
+        "unit": "G"
+      },
+      {
+        "foodId": 43,
+        "amount": 120,
+        "unit": "G"
+      },
+      {
+        "foodId": 119,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 275,
+        "amount": 5,
+        "unit": "ML"
+      },
+      {
+        "foodId": 277,
+        "amount": 100,
+        "unit": "ML"
+      },
+      {
+        "foodId": 128,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 125,
+        "amount": 40,
+        "unit": "G"
+      },
+      {
+        "foodId": 175,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 123,
+        "amount": 20,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 1125,
+    "title": {
+      "en": "Apple puff pastry twists with iced coffee",
+      "ro": "Twisturi din foietaj cu mere verzi și cafea rece"
+    },
+    "servings": 8,
+    "ingredients": [
+      {
+        "foodId": 126,
+        "amount": 500,
+        "unit": "G"
+      },
+      {
+        "foodId": 233,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 671,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 111,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 132,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 140,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 22,
+        "amount": 3,
+        "unit": "ML"
+      },
+      {
+        "foodId": 138,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 1,
+        "amount": 100,
+        "unit": "ML"
+      }
+    ]
+  },
+  {
+    "id": 2773,
+    "title": {
+      "en": "No-bake chocolate biscuit cake",
+      "ro": "Prăjitură fără coacere cu biscuiți și ciocolată"
+    },
+    "servings": 8,
+    "ingredients": [
+      {
+        "foodId": 242,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 140,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 482,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 112,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 124,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 130,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 1,
+        "amount": 1.3,
+        "unit": "L"
+      },
+      {
+        "foodId": 22,
+        "amount": 5,
+        "unit": "ML"
+      },
+      {
+        "foodId": 131,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 170,
+        "amount": 70,
+        "unit": "G"
+      },
+      {
+        "foodId": 448,
+        "amount": 150,
+        "unit": "ML"
+      },
+      {
+        "foodId": 326,
+        "amount": 200,
+        "unit": "ML"
+      }
+    ]
+  },
+  {
+    "id": 1073,
+    "title": {
+      "ro": "Rulouri din foietaj cu carne tocată, cașcaval și sos de chili",
+      "en": "Puff pastry rolls with minced meat, cheese and chili sauce"
+    },
+    "servings": 6,
+    "ingredients": [
+      {
+        "foodId": 126,
+        "amount": 800,
+        "unit": "G"
+      },
+      {
+        "foodId": 7,
+        "amount": 500,
+        "unit": "G"
+      },
+      {
+        "foodId": 8,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 116,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 89,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 408,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 169,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 18,
+        "amount": 3,
+        "unit": "CLOVES"
+      },
+      {
+        "foodId": 125,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 16,
+        "amount": 15,
+        "unit": "ML"
+      },
+      {
+        "foodId": 96,
+        "amount": 20,
+        "unit": "ML"
+      }
+    ]
+  },
+  {
+    "id": 1339,
+    "title": {
+      "ro": "Somon cremos cu spanac și orez",
+      "en": "Creamy salmon with spinach and rice"
+    },
+    "servings": 8,
+    "ingredients": [
+      {
+        "foodId": 112,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 496,
+        "amount": 1.2,
+        "unit": "KG"
+      },
+      {
+        "foodId": 45,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 8,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 94,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 116,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 136,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 93,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 89,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 120,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 190,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 277,
+        "amount": 400,
+        "unit": "ML"
+      },
+      {
+        "foodId": 109,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 123,
+        "amount": 5,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 1726,
+    "title": {
+      "en": "Baked chicken in mozzarella batter with garden salad",
+      "ro": "Piept de pui la cuptor în crustă de mozzarella cu salată de legume"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 111,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 1,
+        "amount": 200,
+        "unit": "ML"
+      },
+      {
+        "foodId": 45,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 135,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 2,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 124,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 23,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 3,
+        "amount": 250,
+        "unit": "ML"
+      },
+      {
+        "foodId": 14,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 17,
+        "amount": 10,
+        "unit": "ML"
+      },
+      {
+        "foodId": 114,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 94,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 459,
+        "amount": 250,
+        "unit": "G"
+      },
+      {
+        "foodId": 343,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 119,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 95,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 257,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 96,
+        "amount": 30,
+        "unit": "ML"
+      },
+      {
+        "foodId": 125,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 25,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 15,
+        "unit": "G"
+      },
+      {
+        "foodId": 16,
+        "amount": 15,
+        "unit": "ML"
+      }
+    ]
+  },
+  {
+    "id": 573,
+    "title": {
+      "ro": "Caserolă de cartofi cu pui și bacon la cuptor",
+      "en": "Baked chicken and bacon potato casserole"
+    },
+    "servings": 3,
+    "ingredients": [
+      {
+        "foodId": 43,
+        "amount": 500,
+        "unit": "G"
+      },
+      {
+        "foodId": 113,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 45,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 4,
+        "unit": "PC"
+      },
+      {
+        "foodId": 110,
+        "amount": 250,
+        "unit": "G"
+      },
+      {
+        "foodId": 89,
+        "amount": 250,
+        "unit": "G"
+      },
+      {
+        "foodId": 14,
+        "amount": 500,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 15,
+        "unit": "G"
+      },
+      {
+        "foodId": 133,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 169,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 125,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 140,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 16,
+        "amount": 15,
+        "unit": "ML"
+      },
+      {
+        "foodId": 134,
+        "amount": 10,
+        "unit": "ML"
+      },
+      {
+        "foodId": 96,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 3,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 109,
+        "amount": 50,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 1459,
+    "title": {
+      "en": "Pan-fried chicken with garlic-lime sauce and mashed potatoes",
+      "ro": "Piept de pui prăjit cu sos de usturoi și lime și piure de cartofi"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 14,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 124,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 6,
+        "unit": "G"
+      },
+      {
+        "foodId": 123,
+        "amount": 15,
+        "unit": "G"
+      },
+      {
+        "foodId": 109,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 112,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 113,
+        "amount": 600,
+        "unit": "G"
+      },
+      {
+        "foodId": 3,
+        "amount": 1,
+        "unit": "L"
+      },
+      {
+        "foodId": 276,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 91,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 110,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 93,
+        "amount": 40,
+        "unit": "G"
+      },
+      {
+        "foodId": 122,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 277,
+        "amount": 180,
+        "unit": "ML"
+      },
+      {
+        "foodId": 48,
+        "amount": 1,
+        "unit": "PC"
+      }
+    ]
+  },
+  {
+    "id": 1790,
+    "title": {
+      "en": "Cabbage croquettes with creamy lemon-dill sauce",
+      "ro": "Crochete de varză cu sos cremos de lămâie și mărar"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 171,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 3,
+        "amount": 500,
+        "unit": "ML"
+      },
+      {
+        "foodId": 1,
+        "amount": 500,
+        "unit": "ML"
+      },
+      {
+        "foodId": 124,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 8,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 115,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 18,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 45,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 135,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 284,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 133,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 16,
+        "amount": 25,
+        "unit": "ML"
+      },
+      {
+        "foodId": 125,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 121,
+        "amount": 20,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 1447,
+    "title": {
+      "ro": "Somon cremos cu legume și orez cu turmeric",
+      "en": "Creamy salmon with vegetables and turmeric rice"
+    },
+    "servings": 5,
+    "ingredients": [
+      {
+        "foodId": 3,
+        "amount": 300,
+        "unit": "ML"
+      },
+      {
+        "foodId": 112,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 496,
+        "amount": 800,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 30,
+        "unit": "ML"
+      },
+      {
+        "foodId": 8,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 18,
+        "amount": 2,
+        "unit": "CLOVES"
+      },
+      {
+        "foodId": 116,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 94,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 136,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 93,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 120,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 122,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 168,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 190,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 277,
+        "amount": 400,
+        "unit": "ML"
+      },
+      {
+        "foodId": 16,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 497,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 123,
+        "amount": 7,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "title": {
+      "en": "Pan-fried salmon with creamy mushroom and spinach sauce",
+      "ro": "Somon prăjit cu sos cremos de ciuperci și spanac"
+    },
+    "servings": 12,
+    "ingredients": [
+      {
+        "foodId": 496,
+        "amount": 2,
+        "unit": "KG"
+      },
+      {
+        "foodId": 112,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 28,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 30,
+        "unit": "ML"
+      },
+      {
+        "foodId": 8,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 96,
+        "amount": 25,
+        "unit": "ML"
+      },
+      {
+        "foodId": 18,
+        "amount": 15,
+        "unit": "G"
+      },
+      {
+        "foodId": 116,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 35,
+        "amount": 250,
+        "unit": "G"
+      },
+      {
+        "foodId": 136,
+        "amount": 60,
+        "unit": "G"
+      },
+      {
+        "foodId": 109,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 93,
+        "amount": 280,
+        "unit": "G"
+      },
+      {
+        "foodId": 120,
+        "amount": 1,
+        "unit": "PC"
+      }
+    ]
+  },
+  {
+    "id": 1170,
+    "title": {
+      "en": "Creamy garlic chicken with mashed potatoes",
+      "ro": "Pui cremos cu usturoi și piure de cartofi"
+    },
+    "servings": 2,
+    "ingredients": [
+      {
+        "foodId": 14,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 124,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 123,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 109,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 112,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 277,
+        "amount": 200,
+        "unit": "ML"
+      },
+      {
+        "foodId": 387,
+        "amount": 10,
+        "unit": "ML"
+      },
+      {
+        "foodId": 113,
+        "amount": 500,
+        "unit": "G"
+      },
+      {
+        "foodId": 3,
+        "amount": 1,
+        "unit": "L"
+      },
+      {
+        "foodId": 45,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 276,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 18,
+        "amount": 3,
+        "unit": "CLOVES"
+      },
+      {
+        "foodId": 110,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 739,
+        "amount": 50,
+        "unit": "ML"
+      },
+      {
+        "foodId": 93,
+        "amount": 40,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 122,
+        "amount": 10,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 3129,
+    "title": {
+      "ro": "Ruladă de burtă de porc la cuptor cu cartofi căliți și sos de mere cu ceapă",
+      "en": "Oven-baked pork belly roll with sautéed potatoes and apple-onion sauce"
+    },
+    "servings": 19,
+    "ingredients": [
+      {
+        "foodId": 207,
+        "amount": 3,
+        "unit": "KG"
+      },
+      {
+        "foodId": 91,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 123,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 134,
+        "amount": 10,
+        "unit": "ML"
+      },
+      {
+        "foodId": 113,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 276,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 112,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 129,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 387,
+        "amount": 15,
+        "unit": "ML"
+      },
+      {
+        "foodId": 8,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 321,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 124,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 93,
+        "amount": 100,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 2971,
+    "title": {
+      "ro": "Burtă de porc în sos de bere cu cartofi și salată de măsline",
+      "en": "Beer-braised pork belly with potatoes and olive salad"
+    },
+    "servings": 6,
+    "ingredients": [
+      {
+        "foodId": 290,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 276,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 517,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 334,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 3,
+        "amount": 4,
+        "unit": "L"
+      },
+      {
+        "foodId": 207,
+        "amount": 1,
+        "unit": "KG"
+      },
+      {
+        "foodId": 219,
+        "amount": 500,
+        "unit": "ML"
+      },
+      {
+        "foodId": 15,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 112,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 8,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 5,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 129,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 113,
+        "amount": 350,
+        "unit": "G"
+      },
+      {
+        "foodId": 119,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 123,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 205,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 487,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 96,
+        "amount": 10,
+        "unit": "ML"
+      }
+    ]
+  },
+  {
+    "id": 995,
+    "title": {
+      "en": "Bacon-wrapped chicken and potato bake with avocado salad",
+      "ro": "Pui învelit în bacon cu cartofi la cuptor și salată de avocado"
+    },
+    "servings": 3,
+    "ingredients": [
+      {
+        "foodId": 43,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 113,
+        "amount": 400,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 1,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 1,
+        "unit": "G"
+      },
+      {
+        "foodId": 14,
+        "amount": 500,
+        "unit": "G"
+      },
+      {
+        "foodId": 2,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 375,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 95,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 35,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 123,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 16,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 96,
+        "amount": 15,
+        "unit": "ML"
+      }
+    ]
+  },
+  {
+    "id": 697,
+    "title": {
+      "en": "Pan-fried stuffed eggplants with garlic sauce",
+      "ro": "Vinete umplute cu carne și sos de usturoi"
+    },
+    "servings": 3,
+    "ingredients": [
+      {
+        "foodId": 248,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 45,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 7,
+        "amount": 500,
+        "unit": "G"
+      },
+      {
+        "foodId": 8,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 123,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 110,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 124,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 17,
+        "amount": 10,
+        "unit": "ML"
+      },
+      {
+        "foodId": 394,
+        "amount": 15,
+        "unit": "ML"
+      },
+      {
+        "foodId": 125,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 16,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 133,
+        "amount": 100,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 892,
+    "title": {
+      "en": "Coffee-soy marinated chicken drumsticks with creamy rice and yogurt sauce",
+      "ro": "Ciocănele de pui marinate în cafea și sos de soia, cu orez cremos și sos de iaurt"
+    },
+    "servings": 5,
+    "ingredients": [
+      {
+        "foodId": 281,
+        "amount": 10,
+        "unit": "PC"
+      },
+      {
+        "foodId": 5,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 132,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 134,
+        "amount": 50,
+        "unit": "ML"
+      },
+      {
+        "foodId": 25,
+        "amount": 40,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 15,
+        "unit": "G"
+      },
+      {
+        "foodId": 8,
+        "amount": 5,
+        "unit": "PC"
+      },
+      {
+        "foodId": 190,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 94,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 277,
+        "amount": 350,
+        "unit": "ML"
+      },
+      {
+        "foodId": 93,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 10,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 127,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 24,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 125,
+        "amount": 10,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 1987,
+    "title": {
+      "en": "Fried feta pastries with yogurt-cucumber sauce",
+      "ro": "Pateuri prăjite cu brânză feta și sos de iaurt cu castravete"
+    },
+    "servings": 6,
+    "ingredients": [
+      {
+        "foodId": 17,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 124,
+        "amount": 800,
+        "unit": "G"
+      },
+      {
+        "foodId": 147,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 123,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 10,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 121,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 120,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 47,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 96,
+        "amount": 25,
+        "unit": "ML"
+      },
+      {
+        "foodId": 45,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 1,
+        "unit": "G"
+      },
+      {
+        "foodId": 95,
+        "amount": 1,
+        "unit": "PC"
+      }
+    ]
+  },
+  {
+    "id": 546,
+    "title": {
+      "en": "Roasted chicken with honey mustard glaze and creamy potatoes",
+      "ro": "Pui la cuptor cu glazură de miere și muștar și cartofi cremoși"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 145,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 45,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 40,
+        "unit": "ML"
+      },
+      {
+        "foodId": 112,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 3,
+        "unit": "CLOVES"
+      },
+      {
+        "foodId": 127,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 125,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 25,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 134,
+        "amount": 40,
+        "unit": "ML"
+      },
+      {
+        "foodId": 5,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 347,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 8,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 113,
+        "amount": 500,
+        "unit": "G"
+      },
+      {
+        "foodId": 135,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 93,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 123,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 122,
+        "amount": 20,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 627,
+    "title": {
+      "ro": "Somon în sos cremos de roșii și spanac, cu piure de cartofi",
+      "en": "Salmon in creamy tomato and spinach sauce with mashed potatoes"
+    },
+    "servings": 5,
+    "ingredients": [
+      {
+        "foodId": 3,
+        "amount": 500,
+        "unit": "ML"
+      },
+      {
+        "foodId": 496,
+        "amount": 800,
+        "unit": "G"
+      },
+      {
+        "foodId": 1,
+        "amount": 1,
+        "unit": "L"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 112,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 8,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 18,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 116,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 35,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 136,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 93,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 120,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 113,
+        "amount": 300,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 3506,
+    "title": {
+      "en": "Baked stuffed pork chop with cabbage and tomato-cucumber salad",
+      "ro": "Cotlet de porc umplut la cuptor cu varză și salată de roșii cu castraveți"
+    },
+    "servings": 6,
+    "ingredients": [
+      {
+        "foodId": 177,
+        "amount": 1,
+        "unit": "KG"
+      },
+      {
+        "foodId": 45,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 2,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 340,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 8,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 96,
+        "amount": 50,
+        "unit": "ML"
+      },
+      {
+        "foodId": 5,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 128,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 171,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 114,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 95,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 129,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 1,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 909,
+    "title": {
+      "en": "Cabbage croquettes with spicy chili sauce",
+      "ro": "Crochete de varză cu sos picant de ardei iute"
+    },
+    "servings": 6,
+    "ingredients": [
+      {
+        "foodId": 3,
+        "amount": 2,
+        "unit": "L"
+      },
+      {
+        "foodId": 171,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 124,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 135,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 284,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 8,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 18,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 89,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 408,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 125,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 342,
+        "amount": 4,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 958,
+    "title": {
+      "en": "Baked chicken drumsticks with creamy rice and cucumber salad",
+      "ro": "Pulpe de pui la cuptor cu orez cremos și salată de castraveți"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 281,
+        "amount": 700,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 40,
+        "unit": "ML"
+      },
+      {
+        "foodId": 45,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 128,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 190,
+        "amount": 600,
+        "unit": "G"
+      },
+      {
+        "foodId": 627,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 93,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 277,
+        "amount": 300,
+        "unit": "ML"
+      },
+      {
+        "foodId": 115,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 95,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 159,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 7,
+        "unit": "G"
+      },
+      {
+        "foodId": 25,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 284,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 133,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 16,
+        "amount": 10,
+        "unit": "ML"
+      },
+      {
+        "foodId": 123,
+        "amount": 10,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 1036,
+    "title": {
+      "en": "Chicken and vegetables baked in parchment with yogurt and mixed salad",
+      "ro": "Piept de pui și legume la cuptor în hârtie de copt cu iaurt și salată mixtă"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 17,
+        "amount": 15,
+        "unit": "ML"
+      },
+      {
+        "foodId": 113,
+        "amount": 350,
+        "unit": "G"
+      },
+      {
+        "foodId": 94,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 14,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 45,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 8,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 115,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 10,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 89,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 35,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 95,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 119,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 375,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 147,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 263,
+        "amount": 80,
+        "unit": "G"
+      },
+      {
+        "foodId": 351,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 16,
+        "amount": 15,
+        "unit": "ML"
+      }
+    ]
+  },
+  {
+    "id": 426,
+    "title": {
+      "en": "Apple tart with iced coffee",
+      "ro": "Plăcintă cu mere din foietaj și cafea cu gheață"
+    },
+    "servings": 8,
+    "ingredients": [
+      {
+        "foodId": 126,
+        "amount": 400,
+        "unit": "G"
+      },
+      {
+        "foodId": 194,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 19,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 140,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 3,
+        "amount": 100,
+        "unit": "ML"
+      },
+      {
+        "foodId": 138,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 170,
+        "amount": 70,
+        "unit": "G"
+      },
+      {
+        "foodId": 448,
+        "amount": 150,
+        "unit": "ML"
+      },
+      {
+        "foodId": 326,
+        "amount": 150,
+        "unit": "ML"
+      }
+    ]
+  },
+  {
+    "id": 1489,
+    "title": {
+      "ro": "Piept de pui cu cartofi și bacon în sos de miere și soia",
+      "en": "Chicken breast with potatoes and bacon in honey soy glaze"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 14,
+        "amount": 600,
+        "unit": "G"
+      },
+      {
+        "foodId": 364,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 388,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 135,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 112,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 113,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 8,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 43,
+        "amount": 120,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 7,
+        "unit": "G"
+      },
+      {
+        "foodId": 189,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 134,
+        "amount": 30,
+        "unit": "ML"
+      },
+      {
+        "foodId": 25,
+        "amount": 10,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 336,
+    "title": {
+      "en": "Chicken liver tart with sautéed vegetables and mozzarella",
+      "ro": "Tartă de ficat de pui cu legume călite și mozzarella"
+    },
+    "servings": 2,
+    "ingredients": [
+      {
+        "foodId": 124,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 45,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 122,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 94,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 115,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 116,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 10,
+        "unit": "ML"
+      },
+      {
+        "foodId": 15,
+        "amount": 1,
+        "unit": "G"
+      },
+      {
+        "foodId": 133,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 125,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 120,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 25,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 1,
+        "unit": "G"
+      },
+      {
+        "foodId": 2,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 542,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 8,
+        "amount": 1,
+        "unit": "PC"
+      }
+    ]
+  },
+  {
+    "id": 2067,
+    "title": {
+      "en": "Stuffed pork chops with roasted cabbage and cucumber salad",
+      "ro": "Cotlete de porc umplute cu varză la cuptor și salată de castraveți"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 177,
+        "amount": 600,
+        "unit": "G"
+      },
+      {
+        "foodId": 129,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 43,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 2,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 8,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 128,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 171,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 115,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 18,
+        "amount": 15,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 100,
+        "unit": "ML"
+      },
+      {
+        "foodId": 96,
+        "amount": 50,
+        "unit": "ML"
+      },
+      {
+        "foodId": 473,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 268,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 121,
+        "amount": 15,
+        "unit": "G"
+      },
+      {
+        "foodId": 568,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 119,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 95,
+        "amount": 2,
+        "unit": "PC"
+      }
+    ]
+  },
+  {
+    "id": 1195,
+    "title": {
+      "ro": "Punguțe de varză umplute cu carne la cuptor, cu sos de usturoi și parmezan",
+      "en": "Baked stuffed cabbage parcels with meat filling and garlic-parmesan sauce"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 171,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 7,
+        "amount": 600,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 373,
+        "amount": 120,
+        "unit": "G"
+      },
+      {
+        "foodId": 116,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 114,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 27,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 2,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 232,
+        "amount": 120,
+        "unit": "G"
+      },
+      {
+        "foodId": 112,
+        "amount": 60,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 124,
+        "amount": 15,
+        "unit": "G"
+      },
+      {
+        "foodId": 277,
+        "amount": 100,
+        "unit": "ML"
+      },
+      {
+        "foodId": 1,
+        "amount": 100,
+        "unit": "ML"
+      },
+      {
+        "foodId": 109,
+        "amount": 100,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 2644,
+    "title": {
+      "ro": "Ruladă de biscuiți cu banane în ciocolată",
+      "en": "Chocolate-coated banana biscuit roll"
+    },
+    "servings": 8,
+    "ingredients": [
+      {
+        "foodId": 163,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 164,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 152,
+        "amount": 400,
+        "unit": "G"
+      },
+      {
+        "foodId": 112,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 154,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 1,
+        "amount": 70,
+        "unit": "ML"
+      },
+      {
+        "foodId": 90,
+        "amount": 500,
+        "unit": "ML"
+      },
+      {
+        "foodId": 20,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 170,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 165,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 132,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 140,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 3,
+        "amount": 30,
+        "unit": "ML"
+      }
+    ]
+  },
+  {
+    "id": 1218,
+    "title": {
+      "en": "Oven-baked chicken legs with creamy rice and tomato mozzarella salad",
+      "ro": "Pulpe de pui la cuptor cu orez cremos și salată de roșii cu mozzarella"
+    },
+    "servings": 6,
+    "ingredients": [
+      {
+        "foodId": 8,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 190,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 94,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 93,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 277,
+        "amount": 300,
+        "unit": "ML"
+      },
+      {
+        "foodId": 281,
+        "amount": 6,
+        "unit": "PC"
+      },
+      {
+        "foodId": 17,
+        "amount": 30,
+        "unit": "ML"
+      },
+      {
+        "foodId": 45,
+        "amount": 6,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 128,
+        "amount": 7,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 114,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 2,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 96,
+        "amount": 10,
+        "unit": "ML"
+      },
+      {
+        "foodId": 394,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 6,
+        "amount": 5,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 1199,
+    "title": {
+      "en": "Creamy salmon with spinach and lemon-turmeric rice",
+      "ro": "Somon în sos cremos cu spanac și orez cu turmeric și lămâie"
+    },
+    "servings": 6,
+    "ingredients": [
+      {
+        "foodId": 112,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 496,
+        "amount": 1,
+        "unit": "KG"
+      },
+      {
+        "foodId": 219,
+        "amount": 500,
+        "unit": "ML"
+      },
+      {
+        "foodId": 8,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 116,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 94,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 45,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 1,
+        "unit": "CLOVES"
+      },
+      {
+        "foodId": 136,
+        "amount": 70,
+        "unit": "G"
+      },
+      {
+        "foodId": 93,
+        "amount": 400,
+        "unit": "G"
+      },
+      {
+        "foodId": 120,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 190,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 30,
+        "unit": "ML"
+      },
+      {
+        "foodId": 269,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 277,
+        "amount": 400,
+        "unit": "ML"
+      },
+      {
+        "foodId": 122,
+        "amount": 10,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 3247,
+    "title": {
+      "en": "Chilled pork hock terrine with garlic butter toast",
+      "ro": "Terrină rece de ciolan de porc cu toast și unt de usturoi"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 178,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 219,
+        "amount": 1,
+        "unit": "L"
+      },
+      {
+        "foodId": 3,
+        "amount": 2,
+        "unit": "L"
+      },
+      {
+        "foodId": 8,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 115,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 18,
+        "amount": 4,
+        "unit": "CLOVES"
+      },
+      {
+        "foodId": 276,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 290,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 24,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 123,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 96,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 112,
+        "amount": 120,
+        "unit": "G"
+      },
+      {
+        "foodId": 186,
+        "amount": 4,
+        "unit": "PC"
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "title": {
+      "ro": "Copănele de pui crocante umplute cu brânză și sos de usturoi",
+      "en": "Crispy cheese-stuffed chicken drumsticks with garlic sauce"
+    },
+    "servings": 6,
+    "ingredients": [
+      {
+        "foodId": 219,
+        "amount": 200,
+        "unit": "ML"
+      },
+      {
+        "foodId": 738,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 124,
+        "amount": 250,
+        "unit": "G"
+      },
+      {
+        "foodId": 130,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 135,
+        "amount": 1,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 1,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 18,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 3,
+        "amount": 50,
+        "unit": "ML"
+      },
+      {
+        "foodId": 133,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 128,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 137,
+        "amount": 10,
+        "unit": "ML"
+      },
+      {
+        "foodId": 125,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 140,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 342,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 119,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 281,
+        "amount": 6,
+        "unit": "PC"
+      },
+      {
+        "foodId": 17,
+        "amount": 300,
+        "unit": "ML"
+      }
+    ]
+  },
+  {
+    "id": 1248,
+    "title": {
+      "ro": "Pulpe de pui prăjite cu sos de muștar și miere",
+      "en": "Pan-fried chicken drumsticks with honey mustard sauce"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 281,
+        "amount": 6,
+        "unit": "PC"
+      },
+      {
+        "foodId": 219,
+        "amount": 400,
+        "unit": "ML"
+      },
+      {
+        "foodId": 124,
+        "amount": 250,
+        "unit": "G"
+      },
+      {
+        "foodId": 130,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 135,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 18,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 3,
+        "amount": 50,
+        "unit": "ML"
+      },
+      {
+        "foodId": 133,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 16,
+        "amount": 10,
+        "unit": "ML"
+      },
+      {
+        "foodId": 498,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 25,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 125,
+        "amount": 50,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 384,
+    "title": {
+      "en": "Roasted chicken with vegetables and spicy sauce",
+      "ro": "Pui la cuptor cu legume și sos picant"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 145,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 91,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 347,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 8,
+        "unit": "G"
+      },
+      {
+        "foodId": 113,
+        "amount": 1,
+        "unit": "KG"
+      },
+      {
+        "foodId": 128,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 96,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 115,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 116,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 208,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 133,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 127,
+        "amount": 80,
+        "unit": "G"
+      },
+      {
+        "foodId": 439,
+        "amount": 80,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 2110,
+    "title": {
+      "en": "Chilled pork knuckle with pickles and mustard mayo",
+      "ro": "Ciolan de porc rece cu castraveți murați și maioneză cu muștar"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 178,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 244,
+        "amount": 2,
+        "unit": "L"
+      },
+      {
+        "foodId": 3,
+        "amount": 3,
+        "unit": "L"
+      },
+      {
+        "foodId": 8,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 115,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 290,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 276,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 112,
+        "amount": 70,
+        "unit": "G"
+      },
+      {
+        "foodId": 24,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 123,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 133,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 125,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 119,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 140,
+        "amount": 8,
+        "unit": "G"
+      },
+      {
+        "foodId": 275,
+        "amount": 10,
+        "unit": "ML"
+      },
+      {
+        "foodId": 342,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 128,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 2,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "title": {
+      "en": "Oven-roasted chicken with potatoes, carrots and mushrooms",
+      "ro": "Pui la cuptor cu cartofi, morcovi și ciuperci"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 145,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 91,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 208,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 113,
+        "amount": 1,
+        "unit": "KG"
+      },
+      {
+        "foodId": 96,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 115,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 116,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 28,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 133,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 127,
+        "amount": 80,
+        "unit": "G"
+      },
+      {
+        "foodId": 316,
+        "amount": 30,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 2995,
+    "title": {
+      "en": "Pork belly roulade with garlic mashed potatoes",
+      "ro": "Ruladă din burtă de porc cu piure de cartofi cu usturoi"
+    },
+    "servings": 6,
+    "ingredients": [
+      {
+        "foodId": 207,
+        "amount": 1,
+        "unit": "KG"
+      },
+      {
+        "foodId": 112,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 123,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 3,
+        "amount": 600,
+        "unit": "ML"
+      },
+      {
+        "foodId": 113,
+        "amount": 400,
+        "unit": "G"
+      },
+      {
+        "foodId": 31,
+        "amount": 70,
+        "unit": "G"
+      },
+      {
+        "foodId": 284,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 89,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 212,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 134,
+        "amount": 70,
+        "unit": "ML"
+      }
+    ]
+  },
+  {
+    "id": 790,
+    "title": {
+      "en": "Homemade cheese with boiled eggs and toast",
+      "ro": "Brânză de casă cu ouă fierte și pâine prăjită"
+    },
+    "servings": 2,
+    "ingredients": [
+      {
+        "foodId": 1,
+        "amount": 2,
+        "unit": "L"
+      },
+      {
+        "foodId": 111,
+        "amount": 6,
+        "unit": "PC"
+      },
+      {
+        "foodId": 45,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 110,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 3,
+        "amount": 1.5,
+        "unit": "L"
+      },
+      {
+        "foodId": 17,
+        "amount": 5,
+        "unit": "ML"
+      },
+      {
+        "foodId": 303,
+        "amount": 4,
+        "unit": "SLICES"
+      }
+    ]
+  },
+  {
+    "id": 1561,
+    "title": {
+      "en": "Baked meatballs with cabbage, zucchini, and apple salad",
+      "ro": "Chiftele la cuptor cu varză și dovlecel, servite cu salată de varză cu mere"
+    },
+    "servings": 9,
+    "ingredients": [
+      {
+        "foodId": 112,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 15,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 171,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 45,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 119,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 7,
+        "amount": 1.5,
+        "unit": "KG"
+      },
+      {
+        "foodId": 122,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 306,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 129,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 142,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 159,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 189,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 121,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 115,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 576,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 268,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 120,
+        "amount": 1,
+        "unit": "PC"
+      }
+    ]
+  },
+  {
+    "id": 3421,
+    "title": {
+      "ro": "Plăcințele coapte cu mozzarella și sos cremos de castraveți",
+      "en": "Baked cheese rolls with mozzarella and cucumber cream sauce"
+    },
+    "servings": 6,
+    "ingredients": [
+      {
+        "foodId": 3,
+        "amount": 700,
+        "unit": "ML"
+      },
+      {
+        "foodId": 140,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 92,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 124,
+        "amount": 500,
+        "unit": "G"
+      },
+      {
+        "foodId": 23,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 91,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 2,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 123,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 256,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 110,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 24,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 345,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 128,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 473,
+        "amount": 25,
+        "unit": "ML"
+      },
+      {
+        "foodId": 96,
+        "amount": 20,
+        "unit": "ML"
+      }
+    ]
+  },
+  {
+    "id": 562,
+    "title": {
+      "en": "Oven-baked chicken and cabbage casserole with potatoes",
+      "ro": "Pui cu varză și cartofi la cuptor"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 171,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 14,
+        "amount": 600,
+        "unit": "G"
+      },
+      {
+        "foodId": 219,
+        "amount": 500,
+        "unit": "ML"
+      },
+      {
+        "foodId": 113,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 45,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 96,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 2,
+        "amount": 400,
+        "unit": "G"
+      },
+      {
+        "foodId": 119,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 111,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 110,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 114,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 115,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 137,
+        "amount": 5,
+        "unit": "ML"
+      },
+      {
+        "foodId": 134,
+        "amount": 7,
+        "unit": "ML"
+      },
+      {
+        "foodId": 25,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 16,
+        "amount": 15,
+        "unit": "ML"
+      },
+      {
+        "foodId": 122,
+        "amount": 20,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 1294,
+    "title": {
+      "en": "Baked stuffed chicken breast with cheese and cabbage salad",
+      "ro": "Piept de pui umplut la cuptor cu cașcaval și salată de varză"
+    },
+    "servings": 9,
+    "ingredients": [
+      {
+        "foodId": 14,
+        "amount": 1.5,
+        "unit": "KG"
+      },
+      {
+        "foodId": 8,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 116,
+        "amount": 400,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 112,
+        "amount": 80,
+        "unit": "G"
+      },
+      {
+        "foodId": 89,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 171,
+        "amount": 250,
+        "unit": "G"
+      },
+      {
+        "foodId": 95,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 204,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 121,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 275,
+        "amount": 5,
+        "unit": "ML"
+      },
+      {
+        "foodId": 17,
+        "amount": 20,
+        "unit": "ML"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": {
+      "en": "Honey mustard chicken wings with cucumber salad",
+      "ro": "Aripioare de pui cu sos de miere și muștar și salată de castraveți"
+    },
+    "servings": 6,
+    "ingredients": [
+      {
+        "foodId": 4,
+        "amount": 1,
+        "unit": "KG"
+      },
+      {
+        "foodId": 280,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 3,
+        "amount": 1,
+        "unit": "L"
+      },
+      {
+        "foodId": 112,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 127,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 25,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 268,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 16,
+        "amount": 30,
+        "unit": "ML"
+      },
+      {
+        "foodId": 134,
+        "amount": 50,
+        "unit": "ML"
+      },
+      {
+        "foodId": 18,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 95,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 119,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 123,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 204,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 10,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 96,
+        "amount": 20,
+        "unit": "ML"
+      }
+    ]
+  },
+  {
+    "id": 2701,
+    "title": {
+      "ro": "Prăjitură cu biscuiți, cremă de vanilie și glazură de ciocolată",
+      "en": "Layered biscuit cake with vanilla cream and chocolate glaze"
+    },
+    "servings": 8,
+    "ingredients": [
+      {
+        "foodId": 242,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 482,
+        "amount": 160,
+        "unit": "G"
+      },
+      {
+        "foodId": 112,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 1,
+        "amount": 300,
+        "unit": "ML"
+      },
+      {
+        "foodId": 448,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 140,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 124,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 130,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 22,
+        "amount": 5,
+        "unit": "ML"
+      },
+      {
+        "foodId": 131,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 33,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 363,
+        "amount": 5,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "title": {
+      "en": "Berry puff pastry baskets with iced caramel coffee",
+      "ro": "Coșulețe din foietaj cu fructe de pădure și cafea caramelată cu gheață"
+    },
+    "servings": 8,
+    "ingredients": [
+      {
+        "foodId": 126,
+        "amount": 700,
+        "unit": "G"
+      },
+      {
+        "foodId": 279,
+        "amount": 400,
+        "unit": "G"
+      },
+      {
+        "foodId": 140,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 120,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 130,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 3,
+        "amount": 70,
+        "unit": "ML"
+      },
+      {
+        "foodId": 671,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 112,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 448,
+        "amount": 100,
+        "unit": "ML"
+      },
+      {
+        "foodId": 747,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 364,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 1,
+        "amount": 200,
+        "unit": "ML"
+      },
+      {
+        "foodId": 739,
+        "amount": 5,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 1205,
+    "title": {
+      "ro": "Aripioare de pui cu glazură de miere și sos de soia și cartofi copți cu brânză",
+      "en": "Honey soy chicken wings with cheesy baked potatoes"
+    },
+    "servings": 9,
+    "ingredients": [
+      {
+        "foodId": 4,
+        "amount": 1.5,
+        "unit": "KG"
+      },
+      {
+        "foodId": 219,
+        "amount": 500,
+        "unit": "ML"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 127,
+        "amount": 40,
+        "unit": "G"
+      },
+      {
+        "foodId": 125,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 25,
+        "amount": 40,
+        "unit": "G"
+      },
+      {
+        "foodId": 134,
+        "amount": 40,
+        "unit": "ML"
+      },
+      {
+        "foodId": 113,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 112,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 10,
+        "unit": "ML"
+      },
+      {
+        "foodId": 109,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 2,
+        "amount": 40,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 326,
+    "title": {
+      "ro": "Tocăniță de vită în bere cu legume și cartofi copți cu rozmarin",
+      "en": "Beer-marinated beef stew with vegetables and roasted rosemary potatoes"
+    },
+    "servings": 9,
+    "ingredients": [
+      {
+        "foodId": 337,
+        "amount": 1.5,
+        "unit": "KG"
+      },
+      {
+        "foodId": 219,
+        "amount": 500,
+        "unit": "ML"
+      },
+      {
+        "foodId": 112,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 100,
+        "unit": "ML"
+      },
+      {
+        "foodId": 8,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 94,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 43,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 15,
+        "unit": "G"
+      },
+      {
+        "foodId": 114,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 15,
+        "amount": 1,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 125,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 134,
+        "amount": 70,
+        "unit": "ML"
+      },
+      {
+        "foodId": 130,
+        "amount": 40,
+        "unit": "G"
+      },
+      {
+        "foodId": 3,
+        "amount": 50,
+        "unit": "ML"
+      },
+      {
+        "foodId": 113,
+        "amount": 4,
+        "unit": "PC"
+      },
+      {
+        "foodId": 208,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 31,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 2,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 1332,
+    "title": {
+      "ro": "Tocăniță de vită în sos de muștar și soia cu cartofi copți",
+      "en": "Beef stew in mustard-soy sauce with roasted potatoes"
+    },
+    "servings": 8,
+    "ingredients": [
+      {
+        "foodId": 337,
+        "amount": 1.3,
+        "unit": "KG"
+      },
+      {
+        "foodId": 219,
+        "amount": 500,
+        "unit": "ML"
+      },
+      {
+        "foodId": 112,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 100,
+        "unit": "ML"
+      },
+      {
+        "foodId": 8,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 94,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 43,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 114,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 45,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 125,
+        "amount": 40,
+        "unit": "G"
+      },
+      {
+        "foodId": 134,
+        "amount": 70,
+        "unit": "ML"
+      },
+      {
+        "foodId": 3,
+        "amount": 300,
+        "unit": "ML"
+      },
+      {
+        "foodId": 130,
+        "amount": 40,
+        "unit": "G"
+      },
+      {
+        "foodId": 113,
+        "amount": 600,
+        "unit": "G"
+      },
+      {
+        "foodId": 31,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 208,
+        "amount": 10,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 3527,
+    "title": {
+      "ro": "Croissante cu nuci și susan",
+      "en": "Walnut and sesame croissants"
+    },
+    "servings": 2,
+    "ingredients": [
+      {
+        "foodId": 326,
+        "amount": 200,
+        "unit": "ML"
+      },
+      {
+        "foodId": 140,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 193,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 124,
+        "amount": 750,
+        "unit": "G"
+      },
+      {
+        "foodId": 91,
+        "amount": 250,
+        "unit": "G"
+      },
+      {
+        "foodId": 170,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 40,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 1,
+        "amount": 30,
+        "unit": "ML"
+      },
+      {
+        "foodId": 300,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 299,
+        "amount": 5,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 2585,
+    "title": {
+      "ro": "Rulouri din aluat cu carne tocată",
+      "en": "Dough rolls with minced meat"
+    },
+    "servings": 6,
+    "ingredients": [
+      {
+        "foodId": 111,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 3,
+        "amount": 500,
+        "unit": "ML"
+      },
+      {
+        "foodId": 45,
+        "amount": 7,
+        "unit": "G"
+      },
+      {
+        "foodId": 124,
+        "amount": 720,
+        "unit": "G"
+      },
+      {
+        "foodId": 91,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 7,
+        "amount": 500,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 176,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 8,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 123,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 1,
+        "amount": 25,
+        "unit": "ML"
+      }
+    ]
+  },
+  {
+    "id": 1750,
+    "title": {
+      "en": "Baked ham and mozzarella toasts with tomato and parsley",
+      "ro": "Toasturi la cuptor cu șuncă, mozzarella și roșii cu pătrunjel"
+    },
+    "servings": 6,
+    "ingredients": [
+      {
+        "foodId": 112,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 259,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 114,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 141,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 2,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 123,
+        "amount": 15,
+        "unit": "G"
+      },
+      {
+        "foodId": 133,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 127,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 125,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 134,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 24,
+        "amount": 1,
+        "unit": "PC"
+      }
+    ]
+  },
+  {
+    "id": 3063,
+    "title": {
+      "ro": "Desert stratificat de biscuiți cu cremă de ciocolată și lapte și ceai rece cu lămâie și mentă",
+      "en": "Layered chocolate and milk biscuit dessert with iced lemon-mint tea"
+    },
+    "servings": 8,
+    "ingredients": [
+      {
+        "foodId": 242,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 140,
+        "amount": 70,
+        "unit": "G"
+      },
+      {
+        "foodId": 131,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 112,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 1,
+        "amount": 400,
+        "unit": "ML"
+      },
+      {
+        "foodId": 130,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 124,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 22,
+        "amount": 10,
+        "unit": "ML"
+      },
+      {
+        "foodId": 530,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 138,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 47,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 120,
+        "amount": 3,
+        "unit": "SLICES"
+      },
+      {
+        "foodId": 3,
+        "amount": 1,
+        "unit": "L"
+      },
+      {
+        "foodId": 420,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 16,
+        "amount": 20,
+        "unit": "ML"
+      }
+    ]
+  },
+  {
+    "id": 1560,
+    "title": {
+      "en": "Chicken and potato cheese balls with creamy dipping sauce",
+      "ro": "Chiftele de pui și cartofi cu cașcaval și sos cremos"
+    },
+    "servings": 6,
+    "ingredients": [
+      {
+        "foodId": 14,
+        "amount": 1.2,
+        "unit": "KG"
+      },
+      {
+        "foodId": 219,
+        "amount": 700,
+        "unit": "ML"
+      },
+      {
+        "foodId": 89,
+        "amount": 250,
+        "unit": "G"
+      },
+      {
+        "foodId": 113,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 123,
+        "amount": 15,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 4,
+        "unit": "PC"
+      },
+      {
+        "foodId": 27,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 133,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 16,
+        "amount": 15,
+        "unit": "ML"
+      },
+      {
+        "foodId": 128,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 1,
+        "unit": "CLOVES"
+      },
+      {
+        "foodId": 125,
+        "amount": 30,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 650,
+    "title": {
+      "en": "Chicken and rice croquettes with spicy sauce",
+      "ro": "Crochete de pui și orez cu sos picant"
+    },
+    "servings": 2,
+    "ingredients": [
+      {
+        "foodId": 190,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 14,
+        "amount": 250,
+        "unit": "G"
+      },
+      {
+        "foodId": 27,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 124,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 5,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 1,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 1,
+        "amount": 30,
+        "unit": "ML"
+      },
+      {
+        "foodId": 17,
+        "amount": 10,
+        "unit": "ML"
+      },
+      {
+        "foodId": 127,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 134,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 316,
+        "amount": 70,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 2,
+        "unit": "CLOVES"
+      }
+    ]
+  },
+  {
+    "id": 1946,
+    "title": {
+      "en": "Fluffy croissants with Nutella and walnuts",
+      "ro": "Croissante pufoase cu Nutella și nuci"
+    },
+    "servings": 2,
+    "ingredients": [
+      {
+        "foodId": 326,
+        "amount": 200,
+        "unit": "ML"
+      },
+      {
+        "foodId": 193,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 140,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 124,
+        "amount": 750,
+        "unit": "G"
+      },
+      {
+        "foodId": 91,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 154,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 40,
+        "amount": 80,
+        "unit": "G"
+      },
+      {
+        "foodId": 1,
+        "amount": 50,
+        "unit": "ML"
+      },
+      {
+        "foodId": 299,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 300,
+        "amount": 10,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 1161,
+    "title": {
+      "en": "Fanta-braised chicken wings with cabbage salad",
+      "ro": "Aripioare de pui înăbușite în Fanta cu salată de varză"
+    },
+    "servings": 9,
+    "ingredients": [
+      {
+        "foodId": 247,
+        "amount": 500,
+        "unit": "ML"
+      },
+      {
+        "foodId": 4,
+        "amount": 1.5,
+        "unit": "KG"
+      },
+      {
+        "foodId": 18,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 135,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 134,
+        "amount": 40,
+        "unit": "ML"
+      },
+      {
+        "foodId": 3,
+        "amount": 50,
+        "unit": "ML"
+      },
+      {
+        "foodId": 127,
+        "amount": 40,
+        "unit": "G"
+      },
+      {
+        "foodId": 25,
+        "amount": 40,
+        "unit": "G"
+      },
+      {
+        "foodId": 268,
+        "amount": 40,
+        "unit": "G"
+      },
+      {
+        "foodId": 171,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 115,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 119,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 133,
+        "amount": 80,
+        "unit": "G"
+      },
+      {
+        "foodId": 140,
+        "amount": 6,
+        "unit": "G"
+      },
+      {
+        "foodId": 137,
+        "amount": 10,
+        "unit": "ML"
+      },
+      {
+        "foodId": 387,
+        "amount": 8,
+        "unit": "ML"
+      },
+      {
+        "foodId": 1,
+        "amount": 100,
+        "unit": "ML"
+      },
+      {
+        "foodId": 123,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 122,
+        "amount": 20,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 3264,
+    "title": {
+      "en": "Baked meatballs with tomato sauce and mashed potatoes",
+      "ro": "Chiftele la cuptor cu sos de roșii și piure de cartofi"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 7,
+        "amount": 600,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 27,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 128,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 8,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 115,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 18,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 123,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 113,
+        "amount": 600,
+        "unit": "G"
+      },
+      {
+        "foodId": 3,
+        "amount": 2,
+        "unit": "L"
+      },
+      {
+        "foodId": 91,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 121,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 232,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 96,
+        "amount": 15,
+        "unit": "ML"
+      },
+      {
+        "foodId": 45,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 135,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 89,
+        "amount": 150,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "title": {
+      "en": "Oven-baked chicken legs with creamy rice and vegetables",
+      "ro": "Pulpe de pui la cuptor cu orez cremos și legume"
+    },
+    "servings": 6,
+    "ingredients": [
+      {
+        "foodId": 281,
+        "amount": 1,
+        "unit": "KG"
+      },
+      {
+        "foodId": 45,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 269,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 30,
+        "unit": "ML"
+      },
+      {
+        "foodId": 8,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 115,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 116,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 25,
+        "unit": "G"
+      },
+      {
+        "foodId": 276,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 190,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 93,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 277,
+        "amount": 400,
+        "unit": "ML"
+      },
+      {
+        "foodId": 114,
+        "amount": 400,
+        "unit": "G"
+      },
+      {
+        "foodId": 119,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 123,
+        "amount": 8,
+        "unit": "G"
+      },
+      {
+        "foodId": 408,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 96,
+        "amount": 10,
+        "unit": "ML"
+      },
+      {
+        "foodId": 275,
+        "amount": 5,
+        "unit": "ML"
+      }
+    ]
+  },
+  {
+    "id": 1219,
+    "title": {
+      "en": "Potato and egg omelet with garlic sauce",
+      "ro": "Omletă cu cartofi și sos de usturoi"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 113,
+        "amount": 4,
+        "unit": "PC"
+      },
+      {
+        "foodId": 8,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 111,
+        "amount": 6,
+        "unit": "PC"
+      },
+      {
+        "foodId": 45,
+        "amount": 6,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 96,
+        "amount": 15,
+        "unit": "ML"
+      },
+      {
+        "foodId": 133,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 120,
+        "amount": 1,
+        "unit": "PC"
+      }
+    ]
+  },
+  {
+    "id": 1398,
+    "title": {
+      "en": "Baked cauliflower with vegetables and creamy sauce",
+      "ro": "Conopidă la cuptor cu legume și sos cremos"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 9,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 45,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 96,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 111,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 124,
+        "amount": 80,
+        "unit": "G"
+      },
+      {
+        "foodId": 8,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 116,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 115,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 94,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 118,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 7,
+        "unit": "G"
+      },
+      {
+        "foodId": 114,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 112,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 125,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 89,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 123,
+        "amount": 15,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 3191,
+    "title": {
+      "en": "Ham and cheese rolls with herb dip",
+      "ro": "Rulouri cu șuncă și cașcaval și sos verde"
+    },
+    "servings": 6,
+    "ingredients": [
+      {
+        "foodId": 111,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 45,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 31,
+        "amount": 70,
+        "unit": "G"
+      },
+      {
+        "foodId": 1,
+        "amount": 450,
+        "unit": "ML"
+      },
+      {
+        "foodId": 140,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 193,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 124,
+        "amount": 750,
+        "unit": "G"
+      },
+      {
+        "foodId": 89,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 141,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 738,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 299,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 92,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 159,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 16,
+        "amount": 10,
+        "unit": "ML"
+      },
+      {
+        "foodId": 497,
+        "amount": 5,
+        "unit": "ML"
+      },
+      {
+        "foodId": 18,
+        "amount": 3,
+        "unit": "CLOVES"
+      },
+      {
+        "foodId": 122,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 123,
+        "amount": 8,
+        "unit": "G"
+      },
+      {
+        "foodId": 121,
+        "amount": 8,
+        "unit": "G"
+      },
+      {
+        "foodId": 6,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 96,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 2234,
+    "title": {
+      "en": "No-bake biscuit roll with banana and cottage cheese cream",
+      "ro": "Ruladă de biscuiți fără coacere cu banană și cremă de brânză de vaci"
+    },
+    "servings": 8,
+    "ingredients": [
+      {
+        "foodId": 91,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 152,
+        "amount": 250,
+        "unit": "G"
+      },
+      {
+        "foodId": 165,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 154,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 39,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 352,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 25,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 139,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 132,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 140,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 622,
+        "amount": 5,
+        "unit": "ML"
+      },
+      {
+        "foodId": 364,
+        "amount": 5,
+        "unit": "PC"
+      },
+      {
+        "foodId": 1,
+        "amount": 15,
+        "unit": "ML"
+      }
+    ]
+  },
+  {
+    "id": 1864,
+    "title": {
+      "ro": "Budincă de fructe în sticle cu glazură de ciocolată și ceai de fructe",
+      "en": "Fruit pudding in bottles with chocolate glaze and fruit tea"
+    },
+    "servings": 8,
+    "ingredients": [
+      {
+        "foodId": 140,
+        "amount": 250,
+        "unit": "G"
+      },
+      {
+        "foodId": 550,
+        "amount": 32,
+        "unit": "G"
+      },
+      {
+        "foodId": 1,
+        "amount": 2.2,
+        "unit": "L"
+      },
+      {
+        "foodId": 139,
+        "amount": 400,
+        "unit": "G"
+      },
+      {
+        "foodId": 294,
+        "amount": 400,
+        "unit": "G"
+      },
+      {
+        "foodId": 200,
+        "amount": 400,
+        "unit": "G"
+      },
+      {
+        "foodId": 120,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 3,
+        "amount": 50,
+        "unit": "ML"
+      },
+      {
+        "foodId": 25,
+        "amount": 60,
+        "unit": "G"
+      },
+      {
+        "foodId": 47,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 131,
+        "amount": 180,
+        "unit": "G"
+      },
+      {
+        "foodId": 163,
+        "amount": 170,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 3188,
+    "title": {
+      "en": "Chocolate mousse cake with peanut caramel",
+      "ro": "Tort mousse de ciocolată cu caramel de arahide"
+    },
+    "servings": 8,
+    "ingredients": [
+      {
+        "foodId": 3,
+        "amount": 1.5,
+        "unit": "L"
+      },
+      {
+        "foodId": 163,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 30,
+        "unit": "ML"
+      },
+      {
+        "foodId": 231,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 140,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 112,
+        "amount": 90,
+        "unit": "G"
+      },
+      {
+        "foodId": 90,
+        "amount": 125,
+        "unit": "ML"
+      },
+      {
+        "foodId": 92,
+        "amount": 400,
+        "unit": "G"
+      },
+      {
+        "foodId": 20,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 323,
+        "amount": 80,
+        "unit": "G"
+      },
+      {
+        "foodId": 292,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 1,
+        "amount": 400,
+        "unit": "ML"
+      },
+      {
+        "foodId": 22,
+        "amount": 8,
+        "unit": "ML"
+      },
+      {
+        "foodId": 448,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 739,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 124,
+        "amount": 45,
+        "unit": "G"
+      },
+      {
+        "foodId": 430,
+        "amount": 45,
+        "unit": "G"
+      },
+      {
+        "foodId": 23,
+        "amount": 8,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 746,
+    "title": {
+      "en": "Soy sauce pasta with chicken and vegetables",
+      "ro": "Paste cu pui și legume în sos de soia"
+    },
+    "servings": 6,
+    "ingredients": [
+      {
+        "foodId": 8,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 18,
+        "amount": 12,
+        "unit": "G"
+      },
+      {
+        "foodId": 171,
+        "amount": 250,
+        "unit": "G"
+      },
+      {
+        "foodId": 115,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 118,
+        "amount": 80,
+        "unit": "G"
+      },
+      {
+        "foodId": 94,
+        "amount": 80,
+        "unit": "G"
+      },
+      {
+        "foodId": 257,
+        "amount": 80,
+        "unit": "G"
+      },
+      {
+        "foodId": 134,
+        "amount": 40,
+        "unit": "ML"
+      },
+      {
+        "foodId": 130,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 3,
+        "amount": 200,
+        "unit": "ML"
+      },
+      {
+        "foodId": 230,
+        "amount": 500,
+        "unit": "G"
+      },
+      {
+        "foodId": 112,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 14,
+        "amount": 400,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 124,
+        "amount": 50,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 386,
+    "title": {
+      "en": "Pan-fried broccoli with bacon, tomato, mozzarella, and yogurt sauce",
+      "ro": "Broccoli prăjit cu bacon, roșii, mozzarella și sos de iaurt"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 146,
+        "amount": 600,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 284,
+        "amount": 1,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 1,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 89,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 15,
+        "unit": "ML"
+      },
+      {
+        "foodId": 232,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 2,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 114,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 43,
+        "amount": 70,
+        "unit": "G"
+      },
+      {
+        "foodId": 135,
+        "amount": 1,
+        "unit": "G"
+      },
+      {
+        "foodId": 95,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 10,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 123,
+        "amount": 15,
+        "unit": "G"
+      },
+      {
+        "foodId": 47,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 16,
+        "amount": 10,
+        "unit": "ML"
+      },
+      {
+        "foodId": 96,
+        "amount": 10,
+        "unit": "ML"
+      },
+      {
+        "foodId": 18,
+        "amount": 15,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 914,
+    "title": {
+      "ro": "Rulouri de vinete umplute cu carne în sos cremos",
+      "en": "Eggplant rolls stuffed with meat in creamy sauce"
+    },
+    "servings": 6,
+    "ingredients": [
+      {
+        "foodId": 248,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 3,
+        "amount": 1,
+        "unit": "L"
+      },
+      {
+        "foodId": 7,
+        "amount": 500,
+        "unit": "G"
+      },
+      {
+        "foodId": 8,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 123,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 110,
+        "amount": 80,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 1,
+        "unit": "G"
+      },
+      {
+        "foodId": 124,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 43,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 208,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 125,
+        "amount": 15,
+        "unit": "G"
+      },
+      {
+        "foodId": 93,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 200,
+        "unit": "ML"
+      }
+    ]
+  },
+  {
+    "id": 3538,
+    "title": {
+      "ro": "Plăcințe prăjite cu brânză feta și sos de bacon",
+      "en": "Fried feta pies with bacon sauce"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 3,
+        "amount": 500,
+        "unit": "ML"
+      },
+      {
+        "foodId": 10,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 124,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 147,
+        "amount": 250,
+        "unit": "G"
+      },
+      {
+        "foodId": 123,
+        "amount": 15,
+        "unit": "G"
+      },
+      {
+        "foodId": 8,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 43,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 208,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 110,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 125,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 7,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 3041,
+    "title": {
+      "en": "Minced meat roll with spinach and mushrooms and tomato-cucumber walnut salad",
+      "ro": "Ruladă din carne tocată cu spanac și ciuperci și salată de roșii cu nuci"
+    },
+    "servings": 6,
+    "ingredients": [
+      {
+        "foodId": 7,
+        "amount": 1,
+        "unit": "KG"
+      },
+      {
+        "foodId": 111,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 123,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 8,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 5,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 10,
+        "unit": "ML"
+      },
+      {
+        "foodId": 136,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 116,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 89,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 134,
+        "amount": 30,
+        "unit": "ML"
+      },
+      {
+        "foodId": 189,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 125,
+        "amount": 60,
+        "unit": "G"
+      },
+      {
+        "foodId": 25,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 114,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 95,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 40,
+        "amount": 180,
+        "unit": "G"
+      },
+      {
+        "foodId": 96,
+        "amount": 20,
+        "unit": "ML"
+      }
+    ]
+  },
+  {
+    "id": 2188,
+    "title": {
+      "ro": "Tartă de ficat de vită cu legume și sos cremos",
+      "en": "Beef liver tart with vegetables and creamy sauce"
+    },
+    "servings": 6,
+    "ingredients": [
+      {
+        "foodId": 508,
+        "amount": 1,
+        "unit": "KG"
+      },
+      {
+        "foodId": 1,
+        "amount": 500,
+        "unit": "ML"
+      },
+      {
+        "foodId": 112,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 360,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 123,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 8,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 115,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 18,
+        "amount": 4,
+        "unit": "CLOVES"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 122,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 2,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 3,
+        "unit": "PC"
+      },
+      {
+        "foodId": 171,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 130,
+        "amount": 15,
+        "unit": "G"
+      },
+      {
+        "foodId": 124,
+        "amount": 15,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 306,
+        "amount": 2,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 2854,
+    "title": {
+      "en": "Chocolate banana biscuit roll with hot chocolate",
+      "ro": "Ruladă de biscuiți cu ciocolată și banane, servită cu ciocolată caldă"
+    },
+    "servings": 8,
+    "ingredients": [
+      {
+        "foodId": 152,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 31,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 154,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 1,
+        "amount": 40,
+        "unit": "ML"
+      },
+      {
+        "foodId": 90,
+        "amount": 400,
+        "unit": "ML"
+      },
+      {
+        "foodId": 20,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 170,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 165,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 3,
+        "amount": 400,
+        "unit": "ML"
+      },
+      {
+        "foodId": 163,
+        "amount": 250,
+        "unit": "G"
+      },
+      {
+        "foodId": 164,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 140,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 131,
+        "amount": 15,
+        "unit": "G"
+      },
+      {
+        "foodId": 22,
+        "amount": 2,
+        "unit": "ML"
+      },
+      {
+        "foodId": 739,
+        "amount": 50,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 2817,
+    "title": {
+      "ro": "Ceafă de porc la cuptor cu sos de miere și muștar şi piure de cartofi",
+      "en": "Oven-baked pork neck with honey-mustard sauce and mashed potatoes"
+    },
+    "servings": 9,
+    "ingredients": [
+      {
+        "foodId": 8,
+        "amount": 400,
+        "unit": "G"
+      },
+      {
+        "foodId": 134,
+        "amount": 50,
+        "unit": "ML"
+      },
+      {
+        "foodId": 385,
+        "amount": 1.5,
+        "unit": "KG"
+      },
+      {
+        "foodId": 17,
+        "amount": 20,
+        "unit": "ML"
+      },
+      {
+        "foodId": 112,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 45,
+        "amount": 8,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 25,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 120,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 125,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 113,
+        "amount": 600,
+        "unit": "G"
+      },
+      {
+        "foodId": 3,
+        "amount": 800,
+        "unit": "ML"
+      },
+      {
+        "foodId": 18,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 1,
+        "amount": 150,
+        "unit": "ML"
+      },
+      {
+        "foodId": 347,
+        "amount": 2,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 390,
+    "title": {
+      "en": "Broccoli frittata with bacon, mozzarella and tomato",
+      "ro": "Frittata de broccoli cu bacon, mozzarella și roșii"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 146,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 89,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 111,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 45,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 284,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 4,
+        "unit": "G"
+      },
+      {
+        "foodId": 112,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 208,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 93,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 125,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 2,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 114,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 43,
+        "amount": 70,
+        "unit": "G"
+      },
+      {
+        "foodId": 232,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 135,
+        "amount": 2,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 2291,
+    "title": {
+      "en": "No-bake biscuit cake with Nutella, vanilla and chocolate custard",
+      "ro": "Prăjitură fără coacere cu Nutella, cremă de vanilie și ciocolată"
+    },
+    "servings": 8,
+    "ingredients": [
+      {
+        "foodId": 112,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 154,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 1,
+        "amount": 300,
+        "unit": "ML"
+      },
+      {
+        "foodId": 152,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 140,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 124,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 130,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 22,
+        "amount": 5,
+        "unit": "ML"
+      },
+      {
+        "foodId": 131,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 482,
+        "amount": 90,
+        "unit": "G"
+      },
+      {
+        "foodId": 163,
+        "amount": 100,
+        "unit": "G"
+      },
+      {
+        "foodId": 739,
+        "amount": 30,
+        "unit": "G"
+      },
+      {
+        "foodId": 374,
+        "amount": 10,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 1281,
+    "title": {
+      "ro": "Pui glazurat cu miere în folie cu orez cu ciuperci și verdețuri",
+      "en": "Honey-glazed chicken in foil with herbed mushroom rice"
+    },
+    "servings": 4,
+    "ingredients": [
+      {
+        "foodId": 112,
+        "amount": 80,
+        "unit": "G"
+      },
+      {
+        "foodId": 18,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 145,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 45,
+        "amount": 7,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 2,
+        "unit": "G"
+      },
+      {
+        "foodId": 25,
+        "amount": 40,
+        "unit": "G"
+      },
+      {
+        "foodId": 189,
+        "amount": 40,
+        "unit": "G"
+      },
+      {
+        "foodId": 125,
+        "amount": 40,
+        "unit": "G"
+      },
+      {
+        "foodId": 134,
+        "amount": 40,
+        "unit": "ML"
+      },
+      {
+        "foodId": 123,
+        "amount": 15,
+        "unit": "G"
+      },
+      {
+        "foodId": 5,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 119,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 96,
+        "amount": 25,
+        "unit": "ML"
+      },
+      {
+        "foodId": 428,
+        "amount": 300,
+        "unit": "G"
+      },
+      {
+        "foodId": 8,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 190,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 277,
+        "amount": 400,
+        "unit": "ML"
+      },
+      {
+        "foodId": 121,
+        "amount": 5,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 1565,
+    "title": {
+      "en": "Tangerine skillet cake",
+      "ro": "Chec cu mandarine la tigaie"
+    },
+    "servings": 8,
+    "ingredients": [
+      {
+        "foodId": 112,
+        "amount": 25,
+        "unit": "G"
+      },
+      {
+        "foodId": 140,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 218,
+        "amount": 4,
+        "unit": "PC"
+      },
+      {
+        "foodId": 111,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 17,
+        "amount": 100,
+        "unit": "ML"
+      },
+      {
+        "foodId": 1,
+        "amount": 125,
+        "unit": "ML"
+      },
+      {
+        "foodId": 124,
+        "amount": 170,
+        "unit": "G"
+      },
+      {
+        "foodId": 23,
+        "amount": 8,
+        "unit": "G"
+      },
+      {
+        "foodId": 3,
+        "amount": 15,
+        "unit": "ML"
+      },
+      {
+        "foodId": 157,
+        "amount": 20,
+        "unit": "G"
+      },
+      {
+        "foodId": 374,
+        "amount": 50,
+        "unit": "G"
+      }
+    ]
+  },
+  {
+    "id": 1761,
+    "title": {
+      "en": "Baked chicken in cabbage cups with fresh salad",
+      "ro": "Pui la cuptor în cupe de varză cu salată proaspătă"
+    },
+    "servings": 2,
+    "ingredients": [
+      {
+        "foodId": 171,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 45,
+        "amount": 5,
+        "unit": "G"
+      },
+      {
+        "foodId": 15,
+        "amount": 3,
+        "unit": "G"
+      },
+      {
+        "foodId": 119,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 14,
+        "amount": 1,
+        "unit": "PC"
+      },
+      {
+        "foodId": 1,
+        "amount": 500,
+        "unit": "ML"
+      },
+      {
+        "foodId": 111,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 10,
+        "amount": 50,
+        "unit": "G"
+      },
+      {
+        "foodId": 112,
+        "amount": 200,
+        "unit": "G"
+      },
+      {
+        "foodId": 114,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 89,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 95,
+        "amount": 2,
+        "unit": "PC"
+      },
+      {
+        "foodId": 204,
+        "amount": 150,
+        "unit": "G"
+      },
+      {
+        "foodId": 121,
+        "amount": 10,
+        "unit": "G"
+      },
+      {
+        "foodId": 17,
+        "amount": 15,
+        "unit": "ML"
+      },
+      {
+        "foodId": 137,
+        "amount": 10,
+        "unit": "ML"
+      }
+    ]
+  }
+]
